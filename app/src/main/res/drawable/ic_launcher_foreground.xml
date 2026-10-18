@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Shield Crest -->
+    <path
+        android:fillColor="#6366F1"
+        android:pathData="M54,22 L78,32 C78,56 68,74 54,84 C40,74 30,56 30,32 Z" />
+    <!-- Inner Accent Shield -->
+    <path
+        android:fillColor="#4F46E5"
+        android:pathData="M54,26 L74,34.5 C74,54 65,69 54,78 C43,69 34,54 34,34.5 Z" />
+    <!-- Open Book Pages Symbol inside shield -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,54 C50,50 44,48 39,48 L39,66 C44,66 50,68 54,72 C58,68 64,66 69,66 L69,48 C64,48 58,50 54,54 Z" />
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M54,34 L56.5,41.5 L64,41.5 L58,46 L60.5,53.5 L54,49 L47.5,53.5 L50,46 L44,41.5 L51.5,41.5 Z" />
+</vector>

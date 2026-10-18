@@ -1,0 +1,6 @@
+{
+  "name": "FocusStudy",
+  "description": "Smart day planner, unclosable app blocker, and AI lecture & DPP verification for students",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

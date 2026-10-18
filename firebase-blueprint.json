@@ -1,0 +1,115 @@
+{
+  "entities": {
+    "UserProfile": {
+      "title": "UserProfile",
+      "description": "User profile with study statistics and streak tracking",
+      "type": "object",
+      "properties": {
+        "userId": { "type": "string" },
+        "displayName": { "type": "string" },
+        "email": { "type": "string" },
+        "totalStudyMinutes": { "type": "integer" },
+        "streakDays": { "type": "integer" },
+        "completedLecturesCount": { "type": "integer" },
+        "completedDppsCount": { "type": "integer" },
+        "createdAt": { "type": "string", "format": "date-time" },
+        "updatedAt": { "type": "string", "format": "date-time" }
+      },
+      "required": ["userId"]
+    },
+    "Course": {
+      "title": "Course",
+      "description": "Student enrolled subject or course with lecture count",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "userId": { "type": "string" },
+        "title": { "type": "string" },
+        "subject": { "type": "string" },
+        "totalLectures": { "type": "integer" },
+        "completedLectures": { "type": "integer" },
+        "hasDppDefault": { "type": "boolean" },
+        "createdAt": { "type": "string", "format": "date-time" },
+        "updatedAt": { "type": "string", "format": "date-time" }
+      },
+      "required": ["id", "userId", "title"]
+    },
+    "Lecture": {
+      "title": "Lecture",
+      "description": "Individual lecture with duration, DPP status, and AI verification",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "userId": { "type": "string" },
+        "courseId": { "type": "string" },
+        "lectureNumber": { "type": "integer" },
+        "title": { "type": "string" },
+        "durationMinutes": { "type": "integer" },
+        "hasDpp": { "type": "boolean" },
+        "dppSolved": { "type": "boolean" },
+        "isCompleted": { "type": "boolean" },
+        "isVerified": { "type": "boolean" },
+        "verificationType": { "type": "string" },
+        "verificationScore": { "type": "integer" },
+        "revisionDueDays": { "type": "integer" },
+        "createdAt": { "type": "string", "format": "date-time" },
+        "updatedAt": { "type": "string", "format": "date-time" }
+      },
+      "required": ["id", "userId", "courseId", "lectureNumber"]
+    },
+    "DailyPlan": {
+      "title": "DailyPlan",
+      "description": "Daily 7 AM study plan commitment with targets and status",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "userId": { "type": "string" },
+        "date": { "type": "string" },
+        "totalPlannedMinutes": { "type": "integer" },
+        "totalCompletedMinutes": { "type": "integer" },
+        "plannedLectureIds": { "type": "array" },
+        "status": { "type": "string" },
+        "createdAt": { "type": "string", "format": "date-time" },
+        "updatedAt": { "type": "string", "format": "date-time" }
+      },
+      "required": ["id", "userId", "date"]
+    },
+    "SyncLog": {
+      "title": "SyncLog",
+      "description": "2-hour periodic telemetry log of focus minutes and blocked distraction attempts",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "userId": { "type": "string" },
+        "studyMinutesLogged": { "type": "integer" },
+        "blockedAppAttempts": { "type": "integer" },
+        "deviceState": { "type": "string" },
+        "createdAt": { "type": "string", "format": "date-time" },
+        "updatedAt": { "type": "string", "format": "date-time" }
+      },
+      "required": ["id", "userId"]
+    }
+  },
+  "firestore": {
+    "/users/{userId}": {
+      "schema": "UserProfile",
+      "description": "User profile with study statistics"
+    },
+    "/users/{userId}/courses/{courseId}": {
+      "schema": "Course",
+      "description": "User courses and subjects"
+    },
+    "/users/{userId}/courses/{courseId}/lectures/{lectureId}": {
+      "schema": "Lecture",
+      "description": "Course lectures with DPP tracking and verification"
+    },
+    "/users/{userId}/daily_plans/{planId}": {
+      "schema": "DailyPlan",
+      "description": "Day-wise study commitments"
+    },
+    "/users/{userId}/sync_logs/{logId}": {
+      "schema": "SyncLog",
+      "description": "2-hour study and distraction sync telemetry"
+    }
+  }
+}
