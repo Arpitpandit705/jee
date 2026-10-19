@@ -51,6 +51,8 @@ import androidx.credentials.ClearCredentialStateRequest
 import androidx.credentials.CredentialManager
 import com.example.data.FirestoreRepository
 import com.example.data.PreferencesManager
+import com.example.data.PwPlanImporter
+import com.example.data.PwStudyPlan
 import com.example.model.Course
 import com.example.model.DailyPlan
 import com.example.model.Lecture
@@ -61,6 +63,7 @@ import com.example.ui.CoursesTrackerSection
 import com.example.ui.HardcoreFocusLockSection
 import com.example.ui.LectureVerificationDialog
 import com.example.ui.PermissionWizardScreen
+import com.example.ui.RevisionPlannerSection
 import com.example.ui.StudyOnboardingWizard
 import com.example.ui.SyncAndStatsSection
 import com.example.ui.TodayPlannerSection
@@ -202,7 +205,8 @@ fun MainStudyDashboard(
             when (initialTargetTab) {
                 "FOCUS_LOCK" -> 1
                 "COURSES" -> 2
-                "STATS" -> 3
+                "REVISION" -> 3
+                "STATS" -> 4
                 else -> if (showInitialBlockedAlert) 1 else 0
             }
         )
@@ -229,6 +233,9 @@ fun MainStudyDashboard(
         lecturesByCourse[course.id] = lecs
     }
 
+    // Pw revision plan asset (bundled, secret-free: no API keys inside)
+    val pwPlan = remember { PwStudyPlan.fromAssets(context) }
+
     val allLectures = remember(lecturesByCourse.values.toList()) {
         lecturesByCourse.values.flatten()
     }
@@ -237,68 +244,16 @@ fun MainStudyDashboard(
         allLectures.find { it.id == prefs.activeLectureId }
     }
 
-    // Seed initial syllabus if user has zero courses
-    LaunchedEffect(courses) {
-        if (courses.isEmpty() && currentUserId.isNotBlank()) {
-            val courseId = repository.addCourse(
-                Course(
-                    title = "Physics: Rotational Dynamics & Mechanics",
-                    subject = "Physics",
-                    totalLectures = 24L,
-                    hasDppDefault = true
-                )
-            )
-            // Add initial 3 lectures
-            repository.addLecture(
-                Lecture(
-                    courseId = courseId,
-                    lectureNumber = 1L,
-                    title = "Moment of Inertia & Parallel Axis Theorem",
-                    durationMinutes = 60L,
-                    hasDpp = true,
-                    revisionDueDays = 3L
-                )
-            )
-            repository.addLecture(
-                Lecture(
-                    courseId = courseId,
-                    lectureNumber = 2L,
-                    title = "Torque, Angular Momentum & Precession",
-                    durationMinutes = 75L,
-                    hasDpp = true,
-                    revisionDueDays = 3L
-                )
-            )
-            repository.addLecture(
-                Lecture(
-                    courseId = courseId,
-                    lectureNumber = 3L,
-                    title = "Rolling Motion on Inclined Plane & DPP 3",
-                    durationMinutes = 60L,
-                    hasDpp = true,
-                    revisionDueDays = 5L
-                )
-            )
-
-            // Seed Chemistry
-            val chemId = repository.addCourse(
-                Course(
-                    title = "Organic Chemistry: Reaction Mechanisms",
-                    subject = "Chemistry",
-                    totalLectures = 30L,
-                    hasDppDefault = true
-                )
-            )
-            repository.addLecture(
-                Lecture(
-                    courseId = chemId,
-                    lectureNumber = 1L,
-                    title = "Electrophilic Aromatic Substitution",
-                    durationMinutes = 60L,
-                    hasDpp = true,
-                    revisionDueDays = 2L
-                )
-            )
+    // Seed the REAL PW syllabus (plan.json asset) if user has zero courses.
+    // Replaces the old demo Physics/Chemistry placeholder courses.
+    LaunchedEffect(courses, currentUserId) {
+        if (courses.isEmpty() && currentUserId.isNotBlank() && pwPlan != null) {
+            try {
+                PwPlanImporter(repository.db, currentUserId).importAll(pwPlan, userProfile)
+                prefs.isStudyOnboardingCompleted = true
+            } catch (e: Exception) {
+                android.util.Log.e("PwPlanImport", "PW plan import failed", e)
+            }
         }
     }
 
@@ -393,6 +348,20 @@ fun MainStudyDashboard(
                 NavigationBarItem(
                     selected = selectedTabIndex == 3,
                     onClick = { selectedTabIndex = 3 },
+                    icon = { Icon(Icons.Default.Assignment, contentDescription = "Revision") },
+                    label = { Text("Revision", fontSize = 11.sp) },
+                    colors = NavigationBarItemDefaults.colors(
+                        selectedIconColor = FocusIndigoPrimary,
+                        selectedTextColor = FocusIndigoPrimary,
+                        indicatorColor = Color(0xFF312E81).copy(alpha = 0.5f),
+                        unselectedIconColor = Color(0xFF64748B),
+                        unselectedTextColor = Color(0xFF64748B)
+                    )
+                )
+
+                NavigationBarItem(
+                    selected = selectedTabIndex == 4,
+                    onClick = { selectedTabIndex = 4 },
                     icon = { Icon(Icons.Default.BarChart, contentDescription = "Stats") },
                     label = { Text("Sync & Stats", fontSize = 11.sp) },
                     colors = NavigationBarItemDefaults.colors(
@@ -554,7 +523,13 @@ fun MainStudyDashboard(
                     }
                 )
 
-                3 -> SyncAndStatsSection(
+                3 -> RevisionPlannerSection(
+                    plan = pwPlan,
+                    courses = courses,
+                    lecturesByCourse = lecturesByCourse
+                )
+
+                4 -> SyncAndStatsSection(
                     userProfile = userProfile,
                     distractionsBlockedCount = blockedCount,
                     lastSyncTime = prefs.lastSyncTimestamp,

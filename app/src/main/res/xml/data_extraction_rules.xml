@@ -1,19 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?><!--
-   Sample data extraction rules file; uncomment and customize as necessary.
+   Data extraction rules: shared prefs (including the stored batch preference
+   data, which may contain the user's own PW access token) are NEVER uploaded
+   to cloud backup and NEVER transferred device-to-device.
    See https://developer.android.com/about/versions/12/backup-restore#xml-changes
-   for details.
--->
-<data-extraction-rules>
+--><data-extraction-rules>
     <cloud-backup>
-        <!-- TODO: Use <include> and <exclude> to control what is backed up.
-        <include .../>
-        <exclude .../>
-        -->
+        <exclude domain="sharedpref" path="." />
     </cloud-backup>
-    <!--
     <device-transfer>
-        <include .../>
-        <exclude .../>
+        <exclude domain="sharedpref" path="." />
     </device-transfer>
-    -->
 </data-extraction-rules>

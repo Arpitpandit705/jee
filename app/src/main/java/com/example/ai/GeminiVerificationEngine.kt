@@ -85,15 +85,17 @@ class GeminiVerificationEngine {
             }
 
             val request = Request.Builder()
-                .url("https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=$apiKey")
+                .url("https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent")
+                .header("x-goog-api-key", apiKey)
                 .post(requestBodyJson.toString().toRequestBody("application/json".toMediaType()))
                 .build()
 
             val response = client.newCall(request).execute()
-            val responseString = response.body?.string() ?: ""
+            val responseString = response.use { it.body?.string() } ?: ""
 
             if (!response.isSuccessful) {
-                Log.w("GeminiEngine", "Gemini returned error ${response.code}: $responseString")
+                // SECURITY: never log the raw error body — may echo request data; key stays out of logs
+                Log.w("GeminiEngine", "Gemini verification failed with status=${response.code}")
                 return@withContext simulateNotesAnalysis(notesBitmap, lectureTitle)
             }
 
@@ -136,12 +138,13 @@ class GeminiVerificationEngine {
             }
 
             val request = Request.Builder()
-                .url("https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=$apiKey")
+                .url("https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent")
+                .header("x-goog-api-key", apiKey)
                 .post(requestBodyJson.toString().toRequestBody("application/json".toMediaType()))
                 .build()
 
             val response = client.newCall(request).execute()
-            val responseString = response.body?.string() ?: ""
+            val responseString = response.use { it.body?.string() } ?: ""
 
             if (!response.isSuccessful) {
                 return@withContext getFallbackQuiz(lectureTitle, subject)
@@ -203,12 +206,13 @@ class GeminiVerificationEngine {
             }
 
             val request = Request.Builder()
-                .url("https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=$apiKey")
+                .url("https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent")
+                .header("x-goog-api-key", apiKey)
                 .post(requestBodyJson.toString().toRequestBody("application/json".toMediaType()))
                 .build()
 
             val response = client.newCall(request).execute()
-            val responseString = response.body?.string() ?: ""
+            val responseString = response.use { it.body?.string() } ?: ""
 
             if (!response.isSuccessful) {
                 val words = summaryText.trim().split("\\s+".toRegex()).size

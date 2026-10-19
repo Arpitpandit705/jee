@@ -1,0 +1,182 @@
+{
+ "updated": "2026-10-18",
+ "yt_playlists": {
+  "physics": "https://youtube.com/playlist?list=PLMttXSB2G2YPwvxukgg1e349zCanYZhsW",
+  "chemistry": "https://youtube.com/playlist?list=PLxyGaR3hEy3hpXYV-iwKkj1lT1iyultEP",
+  "maths": "https://youtube.com/playlist?list=PLxyGaR3hEy3hlHeokj5am7gON43w-NVOT",
+  "channel_reference": "https://youtube.com/@physicswallah",
+  "channel_note": "General channel - subject playlists already attached, so channel link is optional backup"
+ },
+ "courses": [
+  {
+   "course": "Physics (11th basics)",
+   "source": "Covered from Saleem Sir's 11th version (Coaching Plus), outside snapshot",
+   "status": "COMPLETE",
+   "chapters_done": [
+    {
+     "topic_id": "68acb0398658e2aafcbc2090",
+     "chapter": "Ch- 01 : Mathematical Tools",
+     "total_lectures": 7,
+     "source": "outside-snapshot (complete)"
+    },
+    {
+     "topic_id": "68acb0398658e2aafcbc2091",
+     "chapter": "Ch- 02 : Motion In Straight Line",
+     "total_lectures": 11,
+     "source": "outside-snapshot (complete)"
+    },
+    {
+     "topic_id": "68acb0398658e2aafcbc2092",
+     "chapter": "Ch- 03 : Motion In A Plane",
+     "total_lectures": 8,
+     "source": "outside-snapshot (complete)"
+    },
+    {
+     "topic_id": "68acb0398658e2aafcbc2093",
+     "chapter": "Ch- 04 : Laws Of Motion",
+     "total_lectures": 13,
+     "source": "outside-snapshot (complete)"
+    },
+    {
+     "topic_id": "68acb0398658e2aafcbc2096",
+     "chapter": "Ch- 05 : Circular Motion",
+     "total_lectures": 5,
+     "source": "outside-snapshot (complete)"
+    },
+    {
+     "topic_id": "68acb0398658e2aafcbc2097",
+     "chapter": "Ch- 06 : Work, Energy & Power",
+     "total_lectures": 10,
+     "source": "outside-snapshot (complete)"
+    },
+    {
+     "topic_id": "68acb0398658e2aafcbc2098",
+     "chapter": "Ch- 07 : Centre of Mass & System of Particles",
+     "total_lectures": 16,
+     "source": "outside-snapshot (complete)"
+    }
+   ],
+   "chapters_done_note": "Chapter names matched against Saleem Sir's full topic list; lecture-level data not in snapshot (all complete)."
+  },
+  {
+   "course": "Physics (11th tail) (NKC Sir)",
+   "source": "Prayas JEE 2.0 2026",
+   "status": "NOT_STARTED",
+   "chapters_done": []
+  },
+  {
+   "course": "Physics (12th) (Saleem Sir)",
+   "source": "JEE Coaching Plus 2026",
+   "status": "NOT_STARTED",
+   "chapters_done": []
+  },
+  {
+   "course": "Physical Chemistry (Faisal Razaq Sir)",
+   "source": "Prayas 2027",
+   "status": "IN_PROGRESS",
+   "chapters_done": [
+    {
+     "topic_id": "69e7267e3e82a6c14aaad7e1",
+     "chapter": "Some Basic Concepts of Chemistry",
+     "total_lectures": 13
+    },
+    {
+     "topic_id": "69e7267e3e82a6c14aaad7e2",
+     "chapter": "Redox Reaction",
+     "total_lectures": 6
+    },
+    {
+     "topic_id": "69e7267e3e82a6c14aaad7e3",
+     "chapter": "Solutions",
+     "total_lectures": 9
+    }
+   ],
+   "partial": [
+    {
+     "topic_id": "69e7267e3e82a6c14aaad7e4",
+     "chapter": "Chemical Kinetics",
+     "total_lectures": 9,
+     "completed_lecture_count": 2,
+     "assumption": "first 2 lectures in batch-date order"
+    }
+   ]
+  },
+  {
+   "course": "Inorganic Chemistry (Om Pandey Sir)",
+   "source": "Prayas JEE 2.0 2026",
+   "status": "IN_PROGRESS",
+   "chapters_done": [
+    {
+     "topic_id": "68440c2468fb00b95468b83b",
+     "chapter": "Ch-01 : Periodic Table",
+     "total_lectures": 10
+    }
+   ],
+   "partial": [
+    {
+     "topic_id": "68440c2468fb00b95468b83c",
+     "chapter": "Ch-02 : Chemical Bonding",
+     "total_lectures": 20,
+     "completed_lecture_count": 3,
+     "assumption": "first 3 lectures in batch-date order"
+    }
+   ]
+  },
+  {
+   "course": "Organic Chemistry (Rohit Agarwal Sir)",
+   "source": "JEE Coaching Plus 2026",
+   "status": "IN_PROGRESS",
+   "chapters_done": [],
+   "partial": [
+    {
+     "topic_id": "68951e128b712dbb8766d123",
+     "chapter": "Ch- 01 : IUPAC Nomenclature",
+     "total_lectures": 10,
+     "completed_lecture_count": 3,
+     "assumption": "first 3 lectures in batch-date order"
+    }
+   ]
+  },
+  {
+   "course": "Maths (Sachin Jakhar Sir)",
+   "source": "JEE Coaching Plus 2026",
+   "status": "IN_PROGRESS",
+   "chapters_done": [
+    {
+     "topic_id": "689518e08b712dbb8766cc23",
+     "chapter": "Ch -01 : Basic Maths",
+     "total_lectures": 12
+    },
+    {
+     "topic_id": "689518e08b712dbb8766cc24",
+     "chapter": "Ch -02 : Quadratic Equations",
+     "total_lectures": 8
+    },
+    {
+     "topic_id": "689518e08b712dbb8766cc25",
+     "chapter": "Ch -03 : Sequence & Series",
+     "total_lectures": 9
+    },
+    {
+     "topic_id": "689518e08b712dbb8766cc26",
+     "chapter": "Ch -04 : Trigonometric Functions",
+     "total_lectures": 8
+    },
+    {
+     "topic_id": "689518e08b712dbb8766cc27",
+     "chapter": "Ch -05 : Trigonometric Equations",
+     "total_lectures": 5
+    }
+   ],
+   "partial": [
+    {
+     "topic_id": "689518e08b712dbb8766cc3d",
+     "chapter": "Ch - 27 : Binomial Theorem",
+     "total_lectures": 3,
+     "completed_lecture_count": 2,
+     "assumption": "first 2 of 3 in batch-date order"
+    }
+   ]
+  }
+ ]
+}

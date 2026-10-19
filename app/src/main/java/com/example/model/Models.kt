@@ -47,6 +47,11 @@ data class Lecture(
     val verificationType: String = "", // "NOTES_PHOTO", "QUIZ", "ACTIVE_RECALL"
     val verificationScore: Long = 0L,
     val revisionDueDays: Long = 3L,
+    // PW integration fields
+    val pwId: String = "",          // PW video content id (stable reference)
+    val sourceTag: String = "",     // e.g. "PW:Batch:Teacher"
+    val dppPdfUrl: String = "",     // direct DPP PDF attachment (static.pw.live)
+    val dppPdfName: String = "",    // human-friendly DPP file name
     @ServerTimestamp val createdAt: Timestamp? = null,
     @ServerTimestamp val updatedAt: Timestamp? = null
 )

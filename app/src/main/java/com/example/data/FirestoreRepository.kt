@@ -67,7 +67,7 @@ fun handleFirestoreError(exception: Exception, operationType: OperationType, pat
     return jsonString
 }
 
-class FirestoreRepository(private val db: FirebaseFirestore) {
+class FirestoreRepository(val db: FirebaseFirestore) {
 
     constructor(context: Context) : this(
         FirebaseFirestore.getInstance(

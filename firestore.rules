@@ -10,24 +10,41 @@ service cloud.firestore {
       return isAuthenticated() && request.auth.uid == userId;
     }
 
+    // Incoming document must never claim a different owner than its path,
+    // and existing ownership fields may never be changed by any client.
+    function userIdFieldValid(userId) {
+      return request.resource == null
+        || request.resource.data.get('userId', userId) == userId
+        && (resource == null || resource.data.get('userId', userId) == request.resource.data.get('userId', userId));
+    }
+
     match /users/{userId} {
-      allow read, write: if isOwner(userId);
+      // Profile: owner-only read/write; userId field cannot be spoofed or moved
+      allow read, write: if isOwner(userId) && userIdFieldValid(userId);
 
       match /courses/{courseId} {
-        allow read, write: if isOwner(userId);
+        allow read, write: if isOwner(userId) && userIdFieldValid(userId);
 
         match /lectures/{lectureId} {
-          allow read, write: if isOwner(userId);
+          allow read, write: if isOwner(userId) && userIdFieldValid(userId);
         }
       }
 
       match /daily_plans/{planId} {
-        allow read, write: if isOwner(userId);
+        allow read, write: if isOwner(userId) && userIdFieldValid(userId);
       }
 
+      // Sync logs are audit records: owner cannot delete them once written
       match /sync_logs/{logId} {
-        allow read, write: if isOwner(userId);
+        allow read, create: if isOwner(userId) && userIdFieldValid(userId);
+        allow update: if false;
+        allow delete: if false;
       }
+    }
+
+    // Default deny everything else
+    match /{document=**} {
+      allow read, write: if false;
     }
   }
 }

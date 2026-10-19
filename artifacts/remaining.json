@@ -1,0 +1,551 @@
+{
+ "updated": "2026-10-18",
+ "excluded_topics": 10,
+ "subjects": [
+  {
+   "course": "Physics (12th)",
+   "total_lectures": 89,
+   "completed": 0,
+   "remaining": 89,
+   "chapters": [
+    {
+     "chapter": "Ch- 15 : Electric Charges & Fields",
+     "total": 17,
+     "done": 0,
+     "remaining": 17
+    },
+    {
+     "chapter": "Ch- 16 : Modern Physics",
+     "total": 7,
+     "done": 0,
+     "remaining": 7
+    },
+    {
+     "chapter": "Ch- 17 : Current Electricity",
+     "total": 7,
+     "done": 0,
+     "remaining": 7
+    },
+    {
+     "chapter": "Ch- 18 : Capacitor",
+     "total": 8,
+     "done": 0,
+     "remaining": 8
+    },
+    {
+     "chapter": "Ch- 19 : Wave Optics",
+     "total": 5,
+     "done": 0,
+     "remaining": 5
+    },
+    {
+     "chapter": "Ch- 20 : Gravitation",
+     "total": 2,
+     "done": 0,
+     "remaining": 2
+    },
+    {
+     "chapter": "Ch- 21 : Magnetism",
+     "total": 9,
+     "done": 0,
+     "remaining": 9
+    },
+    {
+     "chapter": "Ch- 22 : Electromagnetic Wave",
+     "total": 2,
+     "done": 0,
+     "remaining": 2
+    },
+    {
+     "chapter": "Ch- 23 : Semiconductor",
+     "total": 3,
+     "done": 0,
+     "remaining": 3
+    },
+    {
+     "chapter": "Ch- 24 : Electromagnetic Induction",
+     "total": 6,
+     "done": 0,
+     "remaining": 6
+    },
+    {
+     "chapter": "Ch- 25 : Error & Measurement",
+     "total": 3,
+     "done": 0,
+     "remaining": 3
+    },
+    {
+     "chapter": "Ch- 26 : Alternating Current",
+     "total": 5,
+     "done": 0,
+     "remaining": 5
+    },
+    {
+     "chapter": "Ch- 27 : Ray Optics",
+     "total": 14,
+     "done": 0,
+     "remaining": 14
+    },
+    {
+     "chapter": "Ch- 28 : Unit & Dimension",
+     "total": 1,
+     "done": 0,
+     "remaining": 1
+    }
+   ]
+  },
+  {
+   "course": "Physics (11th)",
+   "total_lectures": 51,
+   "completed": 0,
+   "remaining": 51,
+   "chapters": [
+    {
+     "chapter": "Ch-08 : Rotational Motion",
+     "total": 15,
+     "done": 0,
+     "remaining": 15
+    },
+    {
+     "chapter": "Ch-09 : Mechanical Properties of Solids",
+     "total": 1,
+     "done": 0,
+     "remaining": 1
+    },
+    {
+     "chapter": "Ch-10 : Mechanical Properties of Fluids",
+     "total": 11,
+     "done": 0,
+     "remaining": 11
+    },
+    {
+     "chapter": "Ch-11 : Thermal Properties of Matter",
+     "total": 5,
+     "done": 0,
+     "remaining": 5
+    },
+    {
+     "chapter": "Ch-12 : KTG and Thermodynamics",
+     "total": 6,
+     "done": 0,
+     "remaining": 6
+    },
+    {
+     "chapter": "Ch - 13 : Simple Harmonic Motion",
+     "total": 5,
+     "done": 0,
+     "remaining": 5
+    },
+    {
+     "chapter": "Ch - 14 : Waves",
+     "total": 8,
+     "done": 0,
+     "remaining": 8
+    }
+   ]
+  },
+  {
+   "course": "Physical Chemistry (Faisal Razaq Sir)",
+   "total_lectures": 78,
+   "completed": 30,
+   "remaining": 48,
+   "chapters": [
+    {
+     "chapter": "Some Basic Concepts of Chemistry",
+     "total": 13,
+     "done": 13,
+     "remaining": 0
+    },
+    {
+     "chapter": "Redox Reaction",
+     "total": 6,
+     "done": 6,
+     "remaining": 0
+    },
+    {
+     "chapter": "Solutions",
+     "total": 9,
+     "done": 9,
+     "remaining": 0
+    },
+    {
+     "chapter": "Chemical Kinetics",
+     "total": 9,
+     "done": 2,
+     "remaining": 7
+    },
+    {
+     "chapter": "Thermodynamics",
+     "total": 12,
+     "done": 0,
+     "remaining": 12
+    },
+    {
+     "chapter": "Chemical Equilibrium",
+     "total": 5,
+     "done": 0,
+     "remaining": 5
+    },
+    {
+     "chapter": "Ionic Equilibrium",
+     "total": 7,
+     "done": 0,
+     "remaining": 7
+    },
+    {
+     "chapter": "Electrochemistry",
+     "total": 9,
+     "done": 0,
+     "remaining": 9
+    },
+    {
+     "chapter": "Structure of Atom",
+     "total": 8,
+     "done": 0,
+     "remaining": 8
+    }
+   ]
+  },
+  {
+   "course": "Inorganic Chemistry (Om Pandey Sir)",
+   "total_lectures": 68,
+   "completed": 13,
+   "remaining": 55,
+   "chapters": [
+    {
+     "chapter": "Ch-01 : Periodic Table",
+     "total": 10,
+     "done": 10,
+     "remaining": 0
+    },
+    {
+     "chapter": "Ch-02 : Chemical Bonding",
+     "total": 20,
+     "done": 3,
+     "remaining": 17
+    },
+    {
+     "chapter": "Ch-03 : Coordination Compounds",
+     "total": 14,
+     "done": 0,
+     "remaining": 14
+    },
+    {
+     "chapter": "Ch-04 : P-block Elements",
+     "total": 7,
+     "done": 0,
+     "remaining": 7
+    },
+    {
+     "chapter": "Ch-05 : The d and f-Block Elements",
+     "total": 6,
+     "done": 0,
+     "remaining": 6
+    },
+    {
+     "chapter": "Ch-06 : Principles of Qualitative Analysis:Salt analysis",
+     "total": 6,
+     "done": 0,
+     "remaining": 6
+    },
+    {
+     "chapter": "Ch-07 : Metallurgy",
+     "total": 1,
+     "done": 0,
+     "remaining": 1
+    },
+    {
+     "chapter": "Ch-08 : S Block",
+     "total": 3,
+     "done": 0,
+     "remaining": 3
+    },
+    {
+     "chapter": "Ch-09 : Hydrogen",
+     "total": 1,
+     "done": 0,
+     "remaining": 1
+    }
+   ]
+  },
+  {
+   "course": "Organic Chemistry (Rohit Agarwal Sir)",
+   "total_lectures": 82,
+   "completed": 3,
+   "remaining": 79,
+   "chapters": [
+    {
+     "chapter": "Ch- 01 : IUPAC Nomenclature",
+     "total": 10,
+     "done": 3,
+     "remaining": 7
+    },
+    {
+     "chapter": "Ch- 02 : General Organic Chemistry",
+     "total": 13,
+     "done": 0,
+     "remaining": 13
+    },
+    {
+     "chapter": "Ch- 03 : Isomerism",
+     "total": 15,
+     "done": 0,
+     "remaining": 15
+    },
+    {
+     "chapter": "Ch- 04 : Hydrocarbon",
+     "total": 13,
+     "done": 0,
+     "remaining": 13
+    },
+    {
+     "chapter": "Ch- 05 : Haloalkanes And Haloarenes",
+     "total": 8,
+     "done": 0,
+     "remaining": 8
+    },
+    {
+     "chapter": "Ch- 06 : Alcohols, Phenols And Ethers",
+     "total": 6,
+     "done": 0,
+     "remaining": 6
+    },
+    {
+     "chapter": "Ch- 07 : Amines",
+     "total": 2,
+     "done": 0,
+     "remaining": 2
+    },
+    {
+     "chapter": "Ch- 08 : Aldehyde, Ketone & Carboxylic Acid",
+     "total": 8,
+     "done": 0,
+     "remaining": 8
+    },
+    {
+     "chapter": "Ch- 09 : Biomolecules",
+     "total": 4,
+     "done": 0,
+     "remaining": 4
+    },
+    {
+     "chapter": "Ch- 10 : Chemistry in Everyday Life",
+     "total": 1,
+     "done": 0,
+     "remaining": 1
+    },
+    {
+     "chapter": "Ch- 11 : Polymer",
+     "total": 1,
+     "done": 0,
+     "remaining": 1
+    },
+    {
+     "chapter": "Ch- 12 : Environmental  Chemistry",
+     "total": 1,
+     "done": 0,
+     "remaining": 1
+    }
+   ]
+  },
+  {
+   "course": "Maths (Sachin Jakhar Sir)",
+   "total_lectures": 174,
+   "completed": 44,
+   "remaining": 130,
+   "chapters": [
+    {
+     "chapter": "Interaction Session By Sachin Sir",
+     "total": 1,
+     "done": 0,
+     "remaining": 1
+    },
+    {
+     "chapter": "Ch -01 : Basic Maths",
+     "total": 12,
+     "done": 12,
+     "remaining": 0
+    },
+    {
+     "chapter": "Ch -02 : Quadratic Equations",
+     "total": 8,
+     "done": 8,
+     "remaining": 0
+    },
+    {
+     "chapter": "Ch -03 : Sequence & Series",
+     "total": 9,
+     "done": 9,
+     "remaining": 0
+    },
+    {
+     "chapter": "Ch -04 : Trigonometric Functions",
+     "total": 8,
+     "done": 8,
+     "remaining": 0
+    },
+    {
+     "chapter": "Ch -05 : Trigonometric Equations",
+     "total": 5,
+     "done": 5,
+     "remaining": 0
+    },
+    {
+     "chapter": "Ch -06 : Determinants",
+     "total": 6,
+     "done": 0,
+     "remaining": 6
+    },
+    {
+     "chapter": "Ch -07 : Matrices",
+     "total": 5,
+     "done": 0,
+     "remaining": 5
+    },
+    {
+     "chapter": "Ch -08 : Sets",
+     "total": 3,
+     "done": 0,
+     "remaining": 3
+    },
+    {
+     "chapter": "Ch -09 : Relations & Functions",
+     "total": 12,
+     "done": 0,
+     "remaining": 12
+    },
+    {
+     "chapter": "Ch -10 : Inverse Trigonometric Functions",
+     "total": 6,
+     "done": 0,
+     "remaining": 6
+    },
+    {
+     "chapter": "Ch -11 : Limit, Continuity & Differentiability",
+     "total": 10,
+     "done": 0,
+     "remaining": 10
+    },
+    {
+     "chapter": "Ch -12 : Method Of Differentiation",
+     "total": 3,
+     "done": 0,
+     "remaining": 3
+    },
+    {
+     "chapter": "Ch -13 : Application Of Derivatives",
+     "total": 10,
+     "done": 0,
+     "remaining": 10
+    },
+    {
+     "chapter": "Ch -14 : Indefinite Integration",
+     "total": 6,
+     "done": 0,
+     "remaining": 6
+    },
+    {
+     "chapter": "Ch -15 : Definite Integration",
+     "total": 5,
+     "done": 0,
+     "remaining": 5
+    },
+    {
+     "chapter": "Ch -16 : Application Of Integrals",
+     "total": 2,
+     "done": 0,
+     "remaining": 2
+    },
+    {
+     "chapter": "Ch -17 : Differential Equation",
+     "total": 5,
+     "done": 0,
+     "remaining": 5
+    },
+    {
+     "chapter": "Ch -18 : Straight Lines",
+     "total": 8,
+     "done": 0,
+     "remaining": 8
+    },
+    {
+     "chapter": "Ch -19 : Statistics",
+     "total": 1,
+     "done": 0,
+     "remaining": 1
+    },
+    {
+     "chapter": "Ch -20 : Circles",
+     "total": 7,
+     "done": 0,
+     "remaining": 7
+    },
+    {
+     "chapter": "Ch -21 : Solution Of Triangle",
+     "total": 3,
+     "done": 0,
+     "remaining": 3
+    },
+    {
+     "chapter": "Ch -22 : Parabola",
+     "total": 5,
+     "done": 0,
+     "remaining": 5
+    },
+    {
+     "chapter": "Ch -23 : Ellipse",
+     "total": 5,
+     "done": 0,
+     "remaining": 5
+    },
+    {
+     "chapter": "Ch -24 : Hyperbola",
+     "total": 4,
+     "done": 0,
+     "remaining": 4
+    },
+    {
+     "chapter": "Ch-25 : Vector Algebra",
+     "total": 4,
+     "done": 0,
+     "remaining": 4
+    },
+    {
+     "chapter": "Ch-26 : Three Dimensional Geometry",
+     "total": 5,
+     "done": 0,
+     "remaining": 5
+    },
+    {
+     "chapter": "Ch - 27 : Binomial Theorem",
+     "total": 3,
+     "done": 2,
+     "remaining": 1
+    },
+    {
+     "chapter": "Ch - 28 : Permutation & Combination",
+     "total": 6,
+     "done": 0,
+     "remaining": 6
+    },
+    {
+     "chapter": "Ch - 29 : Probability",
+     "total": 4,
+     "done": 0,
+     "remaining": 4
+    },
+    {
+     "chapter": "Ch - 30 : Complex Numbers",
+     "total": 3,
+     "done": 0,
+     "remaining": 3
+    }
+   ]
+  }
+ ],
+ "TOTAL": {
+  "total_lectures": 542,
+  "completed": 90,
+  "remaining": 452
+ }
+}

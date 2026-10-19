@@ -1,0 +1,4534 @@
+{
+ "version": 3,
+ "generated": "2026-10-18",
+ "courses": [
+  {
+   "key": "Physics (12th)",
+   "batchSlug": "jee-coaching-plus-2026-663976",
+   "subjectSlug": "physics-by-saleem-sir--2025--297330",
+   "source": "Physics Wallah API",
+   "subjectGroup": "physics",
+   "playlistUrl": "https://youtube.com/playlist?list=PLMttXSB2G2YPwvxukgg1e349zCanYZhsW",
+   "fullyComplete": false,
+   "lectureTotal": 89,
+   "lectureDone": 0,
+   "chapters": [
+    {
+     "topicId": "68acb0398658e2aafcbc20a1",
+     "name": "Ch- 15 : Electric Charges & Fields",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "66f4f9f9b5330238e99f9873",
+       "title": "Electric Charges & Fields 01 : Charge & Properties || Methods of Charging || Coulomb Law || Questions Practice || NO DPP",
+       "date": "2024-09-26",
+       "durationMin": 134,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66f64e863dd6f32eb9dcdd32",
+       "title": "Electric Charges & Fields 02 : Force Analysis",
+       "date": "2024-09-27",
+       "durationMin": 138,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66f810a62335db74bc953e4b",
+       "title": "Electric Charges & Fields 03 : Questions Practice on Coulomb Law",
+       "date": "2024-09-28",
+       "durationMin": 148,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66f96cc5e430c0530894a7d5",
+       "title": "Electric Charges & Fields 04 : Coulomb Law in Vector Form || E.F. Due to Point Charge || E.F. Due to Ring, Arc || E.F. Due to Line Wire, Disc || NO DPP || Recorded",
+       "date": "2024-09-30",
+       "durationMin": 151,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66fec10069a92a0ded652923",
+       "title": "Electric Charges & Fields 05 : Questions Practice on Calculation of E.F. || NO DPP || Reschedule @06:15 PM",
+       "date": "2024-10-03",
+       "durationMin": 139,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66ff82ffb4ae2148a5e39b41",
+       "title": "Electric Charges & Fields 06 : Force Analysis || Electric Fields Line || NO DPP || Reschedule @09:05 AM",
+       "date": "2024-10-04",
+       "durationMin": 104,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6700d4bb264635c185959bf3",
+       "title": "Electric Charges & Fields 07 : Questions Practice || EFL || NO DPP || Reschedule @08:45 AM",
+       "date": "2024-10-05",
+       "durationMin": 123,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6703817f319db6fb698a9ce4",
+       "title": "Electric Charges & Fields 08 : Electric Flux || NO DPP",
+       "date": "2024-10-07",
+       "durationMin": 144,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6704cdec80b13f3484479f53",
+       "title": "Electric Charges & Fields 09 : Gauss Law & Application of Gauss Law",
+       "date": "2024-10-08",
+       "durationMin": 137,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6706257645ad01159a651d78",
+       "title": "Electric Charges & Fields 10 : Application of Gauss Law",
+       "date": "2024-10-09",
+       "durationMin": 146,
+       "isCompleted": false
+      },
+      {
+       "pwId": "670773982ca0a47fbb5b917d",
+       "title": "Electric Charges & Fields 11 : EF Due to Long ∞ Solid Cylinder || Flux Calculation",
+       "date": "2024-10-10",
+       "durationMin": 145,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6708c30d170a33442b1af5fc",
+       "title": "Electric Charges & Fields 12 : Electrost P.E. & Mechanical Energy Conservation",
+       "date": "2024-10-11",
+       "durationMin": 144,
+       "isCompleted": false
+      },
+      {
+       "pwId": "670cb9795fa3a30fcfa706c2",
+       "title": "Electric Charges & Fields 13 : Electric Potential",
+       "date": "2024-10-14",
+       "durationMin": 142,
+       "isCompleted": false
+      },
+      {
+       "pwId": "670e0e1f289b4aecd104b400",
+       "title": "Electric Charges & Fields 14 : Electric Potential Due to Point Charge, Solid Sphere, Hollow Sphere, ∞ Line, ∞ Sheet || Reschedule @08:15 AM",
+       "date": "2024-10-15",
+       "durationMin": 159,
+       "isCompleted": false
+      },
+      {
+       "pwId": "670f5f2f444bbda52361a297",
+       "title": "Electric Charges & Fields 15 : Relation b/w E & V || Electric Dipole",
+       "date": "2024-10-16",
+       "durationMin": 149,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6710b4eb15b79a4b9b75ad92",
+       "title": "Electric Charges & Fields 16 : Electric Field & Potential Due to Dipole || Diploe in Uniform & Non Uniform E.F. || Conductor",
+       "date": "2024-10-17",
+       "durationMin": 173,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6711ff7853989869f3fa6358",
+       "title": "Electric Charges & Fields 17 : Conductor || Reschedule @8:15 AM || NO DPP",
+       "date": "2024-10-18",
+       "durationMin": 164,
+       "isCompleted": false
+      }
+     ]
+    },
+    {
+     "topicId": "68acb0398658e2aafcbc20a2",
+     "name": "Ch- 16 : Modern Physics",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "66f64dcdb1c73d34dfbaa9ca",
+       "title": "Modern Physics 01 : Photon Theory || Radiation Pressure || NO DPP || Extra Lecture || Recorded",
+       "date": "2024-09-29",
+       "durationMin": 145,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66f64e4ca14413898b216db3",
+       "title": "Modern Physics 02 : Debroglie Wavelength || Matter Wave || NO DPP || Extra Lecture || Recorded",
+       "date": "2024-10-06",
+       "durationMin": 70,
+       "isCompleted": false
+      },
+      {
+       "pwId": "670b5a8d354ed87fafb328eb",
+       "title": "Modern Physics 03 : Photoelectric Effect (Introduction) || No DPP || Extra Lecture || Recorded",
+       "date": "2024-10-13",
+       "durationMin": 159,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6714eb685c42aea539676fe1",
+       "title": "Modern Physics Lec 04: Bohr Model and Energy Level Diagram (NO DPP) By Saleem Sir",
+       "date": "2024-10-20",
+       "durationMin": 162,
+       "isCompleted": false
+      },
+      {
+       "pwId": "672ab74339e3193081016c58",
+       "title": "Modern Physics 05 : Atomic Collision || Energy Level When Mass of Nucleus is Consider || NO DPP || Extra Lecture || Recorded",
+       "date": "2024-11-08",
+       "durationMin": 111,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6729d2092710394c00441386",
+       "title": "Modern Physics 06 : Nuclear Force || Mass Defect || Binding Energy || Q Value || NO DPP || Recorded",
+       "date": "2024-11-09",
+       "durationMin": 130,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6743ca6ead69169e73fcca80",
+       "title": "Modern Physics 07 : X-Ray || NO DPP || Recorded",
+       "date": "2024-11-25",
+       "durationMin": 107,
+       "isCompleted": false
+      }
+     ]
+    },
+    {
+     "topicId": "68acb0398658e2aafcbc20a3",
+     "name": "Ch- 17 : Current Electricity",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "671342513139a15f69e81292",
+       "title": "Current Electricity 01 : Self Potential Energy (SPE) || Circuit Analysis || NO DPP",
+       "date": "2024-10-19",
+       "durationMin": 142,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6715e8ea07a79fe20e228887",
+       "title": "Current Electricity 02 : Circuit Analysis and Resistance || Reschedule @09:00 AM",
+       "date": "2024-10-21",
+       "durationMin": 126,
+       "isCompleted": false
+      },
+      {
+       "pwId": "671738747d27d6e9af6b7ca8",
+       "title": "Current Electricity 03 : Circuit Analysis || Req For. Diff Body || Power & Brightness || Rescheduled @08:45 AM",
+       "date": "2024-10-22",
+       "durationMin": 126,
+       "isCompleted": false
+      },
+      {
+       "pwId": "67188b87b468492b4797c775",
+       "title": "Current Electricity 04 : Max Power Theorem || KVL || NO DPP || Rescheduled @08:40 AM",
+       "date": "2024-10-23",
+       "durationMin": 139,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6719d4d751c90b7e400df19a",
+       "title": "Current Electricity 05 : KVL || Grouping of Cell || NO DPP",
+       "date": "2024-10-24",
+       "durationMin": 118,
+       "isCompleted": false
+      },
+      {
+       "pwId": "671b30c1b740c6f6e3e75a09",
+       "title": "Current Electricity 06 : Current Electricity || Current Density || Drift Velocity || Questions Practice || Recorded",
+       "date": "2024-10-25",
+       "durationMin": 95,
+       "isCompleted": false
+      },
+      {
+       "pwId": "671c7c8fc4de3394c976dff3",
+       "title": "Current Electricity 07 : Conversion of Galvanometer into Voltmeter & Ammeter || Questions Practice || Reschedule @08:45 AM",
+       "date": "2024-10-26",
+       "durationMin": 125,
+       "isCompleted": false
+      }
+     ]
+    },
+    {
+     "topicId": "68acb0398658e2aafcbc20a4",
+     "name": "Ch- 18 : Capacitor",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "671b91491b6096c739b583ce",
+       "title": "Capacitor 01 : Capacitor || Law of Capacitance || NO DPP || Extra Lecture",
+       "date": "2024-10-25",
+       "durationMin": 64,
+       "isCompleted": false
+      },
+      {
+       "pwId": "671dd1cd7ab9ace278eed44b",
+       "title": "Capacitor 02 : Circuit Analysis || NO DPP || Extra Lecture || Rescheduled @ 08:45 AM",
+       "date": "2024-10-27",
+       "durationMin": 139,
+       "isCompleted": false
+      },
+      {
+       "pwId": "671ddbff667776935db8b688",
+       "title": "Capacitor : Homework Discussion (of lec 02) || Recorded",
+       "date": "2024-10-27",
+       "durationMin": 36,
+       "isCompleted": false
+      },
+      {
+       "pwId": "671f358dfac7b05403eb046f",
+       "title": "Capacitor 03 : Ceq, Series-Parallel || Slab Inserted b/w Capacitor Based Questions",
+       "date": "2024-10-28",
+       "durationMin": 138,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6720718639d43ca261193a71",
+       "title": "Capacitor 04 : Circuit Analysis & Heat Loss || Rescheduled @08:45 AM",
+       "date": "2024-10-29",
+       "durationMin": 125,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6721c446bde7d6d37f20aec9",
+       "title": "Capacitor 05 : Circuit Analysis || RC Circuit",
+       "date": "2024-10-30",
+       "durationMin": 144,
+       "isCompleted": false
+      },
+      {
+       "pwId": "67220bd5549684345ddf79c4",
+       "title": "Capacitor 06 : Two Capacitor Connection || NO DPP || Extra Lecture || Recorded",
+       "date": "2024-10-30",
+       "durationMin": 33,
+       "isCompleted": false
+      },
+      {
+       "pwId": "672432bf82fa146d348304c8",
+       "title": "Capacitor 07 : RC Circuit || Extra Lecture || Recorded",
+       "date": "2024-11-01",
+       "durationMin": 163,
+       "isCompleted": false
+      }
+     ]
+    },
+    {
+     "topicId": "68acb0398658e2aafcbc20a5",
+     "name": "Ch- 19 : Wave Optics",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "6724ed0ef549fc08f7caa345",
+       "title": "Wave Optics 01 : Hygen's Theory, Wavefront || Interference of Light || NO DPP || Extra Lecture || Recorded",
+       "date": "2024-11-02",
+       "durationMin": 152,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6724ed86f549fc08f7caa351",
+       "title": "Wave Optics 02 : Interference || YDSE || Extra Lecture || Recorded",
+       "date": "2024-11-03",
+       "durationMin": 178,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6724ef59852b40344b865d7c",
+       "title": "Wave Optics 03 : YDSE Question Practice || YDSE Modification || Thin Film Interference",
+       "date": "2024-11-04",
+       "durationMin": 158,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6724eb36c4fee9b559ff4874",
+       "title": "Wave Optics 04 : Diffraction || Recorded",
+       "date": "2024-11-05",
+       "durationMin": 110,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6724f052051ca1ca0edb4c07",
+       "title": "Wave Optics 05 : Polarisation || Questions Practice || Recorded || NO DPP",
+       "date": "2024-11-06",
+       "durationMin": 154,
+       "isCompleted": false
+      }
+     ]
+    },
+    {
+     "topicId": "68acb0398658e2aafcbc20a7",
+     "name": "Ch- 20 : Gravitation",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "673219449ac13260f02cd31c",
+       "title": "Gravitation 01 : Gravitation || NO DPP || Reschedule @06:00 PM",
+       "date": "2024-11-11",
+       "durationMin": 130,
+       "isCompleted": false
+      },
+      {
+       "pwId": "673372bd8ec6f7dc43ed659a",
+       "title": "Gravitation 02 : Satellite Motion || Rescheduled @06:30 PM",
+       "date": "2024-11-12",
+       "durationMin": 141,
+       "isCompleted": false
+      }
+     ]
+    },
+    {
+     "topicId": "68acb0398658e2aafcbc20a8",
+     "name": "Ch- 21 : Magnetism",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "6734379ff3ced9c41a51d6f9",
+       "title": "Magnetism 01 : Gravitation Questions Practice || Magnetism || NO DPP || Rescheduled @08:45 AM",
+       "date": "2024-11-13",
+       "durationMin": 123,
+       "isCompleted": false
+      },
+      {
+       "pwId": "67358991d30716c4aee6e647",
+       "title": "Magnetism 02 : Calculation of B || NO DPP",
+       "date": "2024-11-14",
+       "durationMin": 142,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6736db2dc898849c5e11f4af",
+       "title": "Magnetism 03 :  Ampere Law & Application || Magnetic Field Due to Hollow Cylinder (Long) || Magnetic Field Due to Solid Cylinder (Long) || Magnetic Field Due to Solenoid, Toroid, ∞ Sheet || NO DPP",
+       "date": "2024-11-15",
+       "durationMin": 144,
+       "isCompleted": false
+      },
+      {
+       "pwId": "67382d1cd824bbbf4f658b63",
+       "title": "Magnetism 04 : Application of Ampere Law || Motion of Charge Particle Inside Magnetic Field",
+       "date": "2024-11-16",
+       "durationMin": 143,
+       "isCompleted": false
+      },
+      {
+       "pwId": "673acf8f52ffe4f12b11a5bd",
+       "title": "Magnetism 05 : Motion of Charge Particle Inside Magnetic Field",
+       "date": "2024-11-18",
+       "durationMin": 142,
+       "isCompleted": false
+      },
+      {
+       "pwId": "673c213fb4c2b6a14b72662d",
+       "title": "Magnetism 06 : Lorentz Force || Force on Current Carrying Wire",
+       "date": "2024-11-19",
+       "durationMin": 140,
+       "isCompleted": false
+      },
+      {
+       "pwId": "673ccec74430ba42c1efc115",
+       "title": "Magnetism 07 : Force on Current Carrying Wire Inside 'B' || Magnetic Moment || Torque on Current Carrying loop in Magnetic Field || Recorded || Reschedule @08:00 AM",
+       "date": "2024-11-20",
+       "durationMin": 161,
+       "isCompleted": false
+      },
+      {
+       "pwId": "673ec5000d32b83b1cfb63d5",
+       "title": "Magnetism 08 : Magnetic Moment || Bar Magnet || Reschedule @09:00 AM",
+       "date": "2024-11-21",
+       "durationMin": 116,
+       "isCompleted": false
+      },
+      {
+       "pwId": "673f87d2aff8bc78d3ad3d4a",
+       "title": "Prayas JEE 2025 Physics Magnetism KPP Discussion By Saleem Sir 22.11.2024",
+       "date": "2024-11-22",
+       "durationMin": 87,
+       "isCompleted": false
+      }
+     ]
+    },
+    {
+     "topicId": "68acb0398658e2aafcbc20a9",
+     "name": "Ch- 22 : Electromagnetic Wave",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "67359756e0a0c3145f684bee",
+       "title": "Electromagnetic Wave 01 : Electromagnetic Wave || Displacement Current || NO DPP || Recorded || Extra Lecture",
+       "date": "2024-11-14",
+       "durationMin": 71,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6739a993d03284cfda1f8c92",
+       "title": "Electromagnetic Wave 02 : EMW (Complete Chapter) || NO DPP || Extra Lecture || Recorded",
+       "date": "2024-11-17",
+       "durationMin": 184,
+       "isCompleted": false
+      }
+     ]
+    },
+    {
+     "topicId": "68acb0398658e2aafcbc20aa",
+     "name": "Ch- 23 : Semiconductor",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "673c3ab229b59a0f895e22a9",
+       "title": "Semiconductor 01 : Logic Gates || NO DPP || Extra Lecture || Recorded",
+       "date": "2024-11-19",
+       "durationMin": 110,
+       "isCompleted": false
+      },
+      {
+       "pwId": "675d13a7821e2db33cb89234",
+       "title": "Semiconductor 02 : Semiconductor || Energyband || Type of Semiconductor || NO DPP || Extra Lecture || Recorded",
+       "date": "2024-12-14",
+       "durationMin": 112,
+       "isCompleted": false
+      },
+      {
+       "pwId": "675df97e279f477b5506e749",
+       "title": "Semiconductor 03 : PN junction Diode || FB/RB, Ractifier || Zener Diode, LED, Photodiode, Solar Cell || NO DPP || Extra Lecture || Recorded",
+       "date": "2024-12-15",
+       "durationMin": 180,
+       "isCompleted": false
+      }
+     ]
+    },
+    {
+     "topicId": "68acb0398658e2aafcbc20ab",
+     "name": "Ch- 24 : Electromagnetic Induction",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "673f86e1b34b5d64c2e76feb",
+       "title": "Electromagnetic Induction 01 : Ques Based On Magnetic Moment & Angular Momentum || Moving Coil Galvanometer || EMI || NO DPP || Recorded || Reschedule @08:15 AM",
+       "date": "2024-11-22",
+       "durationMin": 148,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6741667759aba0090656d789",
+       "title": "Electromagnetic Induction 02 : Ques Practice on Faraday Law & Lenz Law || Reschedule @08:45 AM",
+       "date": "2024-11-23",
+       "durationMin": 126,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6745e68dc2c0aca33690b91d",
+       "title": "Electromagnetic Induction 03 : Questions Practice || Reschedule @06:00 PM",
+       "date": "2024-11-26",
+       "durationMin": 163,
+       "isCompleted": false
+      },
+      {
+       "pwId": "67463d36a979e976ab5a532d",
+       "title": "Electromagnetic Induction 04 : Questions Practice || Rotational EMF || Induced EF || Recorded || Reschedule @08:15 AM",
+       "date": "2024-11-27",
+       "durationMin": 124,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6747ffa82d4229c0234945a5",
+       "title": "Electromagnetic Induction 05 : Questions Practice || Self  Inductance || Reschedule @09:15 AM",
+       "date": "2024-11-28",
+       "durationMin": 102,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6749504a4d6527efe8521212",
+       "title": "Electromagnetic Induction 06 : R-L Circuit || AC (Introduction)",
+       "date": "2024-11-29",
+       "durationMin": 145,
+       "isCompleted": false
+      }
+     ]
+    },
+    {
+     "topicId": "68acb0398658e2aafcbc20ac",
+     "name": "Ch- 25 : Error & Measurement",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "6748226c06e6d9a3f2f1aa28",
+       "title": "Error & Measurement 01 : Significant Figure || Round Off, Addition Substraction || Multiplication & Division || NO DPP || Extra Lecture || Recorded",
+       "date": "2024-11-28",
+       "durationMin": 50,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6748a58aae97c284ceaf7fc6",
+       "title": "Error & Measurement 02 : Propagation of Error in Addition/Substraction, Multiplication/Division || Fractional Error, % Error || NO DPP || Extra Lecture || Recorded",
+       "date": "2024-11-29",
+       "durationMin": 66,
+       "isCompleted": false
+      },
+      {
+       "pwId": "675892701b878275b36afebd",
+       "title": "Error and Measurement 03 : Vernier Caliper and Screw Gauge || NO DPP || Extra Lecture || Recorded",
+       "date": "2024-12-11",
+       "durationMin": 113,
+       "isCompleted": false
+      }
+     ]
+    },
+    {
+     "topicId": "68acb0398658e2aafcbc20ad",
+     "name": "Ch- 26 : Alternating Current",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "674aa2e76312527eae8ad556",
+       "title": "Alternating Current 01 : i rms, i avrage || NO DPP || Reschedule @08:15 AM",
+       "date": "2024-11-30",
+       "durationMin": 163,
+       "isCompleted": false
+      },
+      {
+       "pwId": "674b36d0a7ac6bc1fc95010f",
+       "title": "Alternating Current 02 : Purely Resistive & Inductive Circuit || NO DPP || Recorded || Extra Lecture",
+       "date": "2024-12-01",
+       "durationMin": 167,
+       "isCompleted": false
+      },
+      {
+       "pwId": "674dcc98f1b9db47cd370e1d",
+       "title": "Alternating Current 03 : Purely Inductive Circuit Only || RLC Circuit, RL, RC Circuit || Reschedule @06:00 PM",
+       "date": "2024-12-02",
+       "durationMin": 146,
+       "isCompleted": false
+      },
+      {
+       "pwId": "674f3b2708441441f7808482",
+       "title": "Alternating Current 04 : Resonance || LC Oscillation",
+       "date": "2024-12-03",
+       "durationMin": 174,
+       "isCompleted": false
+      },
+      {
+       "pwId": "674ff87adb807ad3f2ee2a04",
+       "title": "Alternating Current 05 : Transformer || Ques Practice",
+       "date": "2024-12-04",
+       "durationMin": 136,
+       "isCompleted": false
+      }
+     ]
+    },
+    {
+     "topicId": "68acb0398658e2aafcbc20ae",
+     "name": "Ch- 27 : Ray Optics",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "6751397cb22ea25136e8dbd0",
+       "title": "Ray Optics 01 : Plane Mirror || Reschedule @08:45 AM || NO DPP",
+       "date": "2024-12-05",
+       "durationMin": 131,
+       "isCompleted": false
+      },
+      {
+       "pwId": "67528d1862080fb497f490f5",
+       "title": "Ray Optics 02 : Plane Mirror || Spherical Mirror (Introduction) || NO DPP || Reschedule @08:45 AM",
+       "date": "2024-12-06",
+       "durationMin": 136,
+       "isCompleted": false
+      },
+      {
+       "pwId": "67534744fcf3d6694accae3a",
+       "title": "Ray Optics 03 : Mirror Formula || NO DPP || Recorded || Reschedule @08:15 AM",
+       "date": "2024-12-07",
+       "durationMin": 160,
+       "isCompleted": false
+      },
+      {
+       "pwId": "67547a328f24d78872ea3e19",
+       "title": "Ray Optics 04 : Mirror Formula and Application || Velocity of Image || NO DPP || Extra Lecture || Recorded",
+       "date": "2024-12-08",
+       "durationMin": 158,
+       "isCompleted": false
+      },
+      {
+       "pwId": "675487310a8487c1eea11692",
+       "title": "Ray Optics 05 : Questions Practice || Reflection From Plane Surface || Snell's Law || NO DPP || Recorded",
+       "date": "2024-12-09",
+       "durationMin": 150,
+       "isCompleted": false
+      },
+      {
+       "pwId": "67573231020c7c416a2bbccd",
+       "title": "Ray Optics 06 : TIR, Curved Refraction || Recorded || Reschedule @08:15 AM",
+       "date": "2024-12-10",
+       "durationMin": 154,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6759217b0021b034ff805ba3",
+       "title": "Ray Optics 07 : Lens Formula",
+       "date": "2024-12-11",
+       "durationMin": 138,
+       "isCompleted": false
+      },
+      {
+       "pwId": "675a6ebb25c9b887947052da",
+       "title": "Ray Optics 08 : Lens Formula Based Questions || Slab Insertion",
+       "date": "2024-12-12",
+       "durationMin": 119,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6759ca9cc980c96fc508337e",
+       "title": "Ray Optics 09 : Power || Thin Lens in Contact || Displacement Method || Extra Lecture || Recorded",
+       "date": "2024-12-12",
+       "durationMin": 156,
+       "isCompleted": false
+      },
+      {
+       "pwId": "675af5ef480681ca74788d45",
+       "title": "Ray Optics 10 : Snell's Law Continuous Form || Recorded",
+       "date": "2024-12-13",
+       "durationMin": 124,
+       "isCompleted": false
+      },
+      {
+       "pwId": "675af6248c291611b577b8cb",
+       "title": "Ray Optics 11 : Optical Instruments || Extra Lecture || Recorded",
+       "date": "2024-12-13",
+       "durationMin": 89,
+       "isCompleted": false
+      },
+      {
+       "pwId": "675d0d0d01c0abc2d386a8d1",
+       "title": "Ray Optics 12 : Questions Practice",
+       "date": "2024-12-14",
+       "durationMin": 71,
+       "isCompleted": false
+      },
+      {
+       "pwId": "675cfd0d091eafdf1dd4ac68",
+       "title": "Ray Optics 13 : Prism || NO DPP || Extra Lecture || Recorded",
+       "date": "2024-12-14",
+       "durationMin": 93,
+       "isCompleted": false
+      },
+      {
+       "pwId": "675f4e1e737fcbee66684a47",
+       "title": "Ray Optics 14 : JEE Advanced PYQs || NO DPP || Recorded",
+       "date": "2024-12-16",
+       "durationMin": 136,
+       "isCompleted": false
+      }
+     ]
+    },
+    {
+     "topicId": "68acb0398658e2aafcbc20af",
+     "name": "Ch- 28 : Unit & Dimension",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "6750b6f998d1ddd7b1a7796d",
+       "title": "Unit & Dimension 01 : Unit & Dimension || NO DPP || Extra Lecture || Recorded",
+       "date": "2024-12-05",
+       "durationMin": 136,
+       "isCompleted": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "key": "Physics (11th)",
+   "batchSlug": "prayas-jee-2-0-2026-222936",
+   "subjectSlug": "physics-168894",
+   "source": "Physics Wallah API",
+   "subjectGroup": "physics",
+   "playlistUrl": "https://youtube.com/playlist?list=PLMttXSB2G2YPwvxukgg1e349zCanYZhsW",
+   "fullyComplete": false,
+   "lectureTotal": 51,
+   "lectureDone": 0,
+   "chapters": [
+    {
+     "topicId": "68395d1cf7249cca3ac6a904",
+     "name": "Ch-08 : Rotational Motion",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "689c2083e6e8f8d0f1c1cb2d",
+       "title": "Rotational Motion 01 :  Introduction - Rotation || Problem Solving  ||  (No DPP)",
+       "date": "2025-08-13",
+       "durationMin": 124,
+       "isCompleted": false
+      },
+      {
+       "pwId": "689d90c1ded3dd0ed0efef8d",
+       "title": "Rotational Motion 02 :  MOI + Theorems || Problem Solving (Part-02)",
+       "date": "2025-08-14",
+       "durationMin": 121,
+       "isCompleted": false
+      },
+      {
+       "pwId": "68a03d8fe15dbbe1138dc3fb",
+       "title": "Rotational Motion 03 : Problems on MOI || 1&2 Axis Theorems  || Rescheduled @ 11:15AM",
+       "date": "2025-08-16",
+       "durationMin": 147,
+       "isCompleted": false
+      },
+      {
+       "pwId": "68a2b7bad6247be82b4e1b61",
+       "title": "Rotational Motion 04 : MOI Problems || Torque || NO DPP",
+       "date": "2025-08-18",
+       "durationMin": 123,
+       "isCompleted": false
+      },
+      {
+       "pwId": "68a409f6b2ec8d72c705dcb8",
+       "title": "Rotational Motion 05 : Torque || Problems (MOI+Torque) || NO DPP",
+       "date": "2025-08-19",
+       "durationMin": 125,
+       "isCompleted": false
+      },
+      {
+       "pwId": "68a55b38d8af306338e15b45",
+       "title": "Rotational Motion 06 : Angular momentum",
+       "date": "2025-08-20",
+       "durationMin": 125,
+       "isCompleted": false
+      },
+      {
+       "pwId": "68a6accd07c29742ca6561c7",
+       "title": "Rotational Motion 07 : Angular momentum || Problems || Rolling (T+R) : Intro",
+       "date": "2025-08-21",
+       "durationMin": 125,
+       "isCompleted": false
+      },
+      {
+       "pwId": "68a7fe4ccfbeb9913a2027e5",
+       "title": "Rotational Motion 08 : Rolling (T+R)",
+       "date": "2025-08-22",
+       "durationMin": 125,
+       "isCompleted": false
+      },
+      {
+       "pwId": "68a94f2da679da5ab22c99b4",
+       "title": "Rotational Motion 09 : Rolling || (AMB+Rolling) Problems || NO DPP",
+       "date": "2025-08-23",
+       "durationMin": 123,
+       "isCompleted": false
+      },
+      {
+       "pwId": "68ac102fd2a2b6797375f49d",
+       "title": "Rotational Motion 10 : Kinematics of Rolling || Rolling on a Moving object",
+       "date": "2025-08-25",
+       "durationMin": 115,
+       "isCompleted": false
+      },
+      {
+       "pwId": "68ad61d66cd7eeb135686187",
+       "title": "Rotational Motion 11 : Rolling on incline Plane || (T+R) AMB || Energy balance problems || NO DPP",
+       "date": "2025-08-26",
+       "durationMin": 113,
+       "isCompleted": false
+      },
+      {
+       "pwId": "68b0049631b89cf89418a4a1",
+       "title": "Rotational Motion 12 : AMB || Energy +Rotation || IAOR",
+       "date": "2025-08-28",
+       "durationMin": 116,
+       "isCompleted": false
+      },
+      {
+       "pwId": "68b156034bee9806385e463f",
+       "title": "Rotational Motion 13 : IAOR - Problems || Friction in Rolling || Rod-Particle Problem",
+       "date": "2025-08-29",
+       "durationMin": 115,
+       "isCompleted": false
+      },
+      {
+       "pwId": "68b2a8afe6a14d4fa2598c72",
+       "title": "Rotational Motion 14 : Friction in Rolling || Toppling",
+       "date": "2025-08-30",
+       "durationMin": 121,
+       "isCompleted": false
+      },
+      {
+       "pwId": "68b54c76adefc3ad4eff5bf5",
+       "title": "Rotational Motion 15 : Toppling : Examples || Problem Solving : Most wanted || NO DPP",
+       "date": "2025-09-01",
+       "durationMin": 123,
+       "isCompleted": false
+      }
+     ]
+    },
+    {
+     "topicId": "68395d1cf7249cca3ac6a905",
+     "name": "Ch-09 : Mechanical Properties of Solids",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "68b69e1c98a8685d3f7dddb9",
+       "title": "Mechanical Properties of Solids 01 : Introduction : Elasticity || Stress || Strain",
+       "date": "2025-09-02",
+       "durationMin": 120,
+       "isCompleted": false
+      }
+     ]
+    },
+    {
+     "topicId": "68395d1cf7249cca3ac6a906",
+     "name": "Ch-10 : Mechanical Properties of Fluids",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "68b7ef1c9eb788b00c12ada6",
+       "title": "Mechanical Properties of Fluids 01 : Fluid Mechanics || Pressure Calculation || NO DPP",
+       "date": "2025-09-03",
+       "durationMin": 122,
+       "isCompleted": false
+      },
+      {
+       "pwId": "68b93f6cc4b5f37a8f7d3330",
+       "title": "Mechanical Properties of Fluids 02 : Pressure-Calculation || Accelerated Fluid || Force on Base-Fluid || Problem Solving",
+       "date": "2025-09-04",
+       "durationMin": 117,
+       "isCompleted": false
+      },
+      {
+       "pwId": "68ba9208228c21c59d535327",
+       "title": "Mechanical Properties of Fluids 03 : Rotating Tube || Example",
+       "date": "2025-09-05",
+       "durationMin": 121,
+       "isCompleted": false
+      },
+      {
+       "pwId": "68bbe3c1983b32cda3082422",
+       "title": "Mechanical Properties of Fluids 04 : U-Tube Problems || Barometer + Manometer || Rotating Tube|| Pascal’s Law || Buoyancy || NO DPP",
+       "date": "2025-09-06",
+       "durationMin": 123,
+       "isCompleted": false
+      },
+      {
+       "pwId": "68be8774ed983a5656535105",
+       "title": "Mechanical Properties of Fluids 05 : Buoyancy || Force on Side Wall || Examples",
+       "date": "2025-09-08",
+       "durationMin": 123,
+       "isCompleted": false
+      },
+      {
+       "pwId": "68bfd8b03ae7a0d788b3a827",
+       "title": "Mechanical Properties of Fluids 06 : Buoyancy- Problem Practice || Force on Side Wall || Fluid Dynamics || No DPP",
+       "date": "2025-09-09",
+       "durationMin": 120,
+       "isCompleted": false
+      },
+      {
+       "pwId": "68c129c5f3054a0552db60e0",
+       "title": "Mechanical Properties of Fluids 07 : Equation of Continuity || Bernoulli's theorem || Venturimeter formula || Efflux || Velocity of fluid",
+       "date": "2025-09-10",
+       "durationMin": 123,
+       "isCompleted": false
+      },
+      {
+       "pwId": "68c27a7e2a17fdf51c4c97e1",
+       "title": "Mechanical Properties of Fluids 08 : Problems - Fluid Dynamics || Surface Tension",
+       "date": "2025-09-11",
+       "durationMin": 119,
+       "isCompleted": false
+      },
+      {
+       "pwId": "68c3a3a22941904b544531f9",
+       "title": "Mechanical Properties of Fluids 09 : Surface Tension - Surface Energy || Excess pressure",
+       "date": "2025-09-12",
+       "durationMin": 81,
+       "isCompleted": false
+      },
+      {
+       "pwId": "68c4fef690735b14456efd02",
+       "title": "Mechanical Properties of Fluids 10 : Excess pressure || Capillary Action || Contact Angle || NO DPP",
+       "date": "2025-09-13",
+       "durationMin": 124,
+       "isCompleted": false
+      },
+      {
+       "pwId": "68c7a241f9435996a3c9e4ec",
+       "title": "Mechanical Properties of Fluids 11 : Capillary Action || Viscosity",
+       "date": "2025-09-15",
+       "durationMin": 125,
+       "isCompleted": false
+      }
+     ]
+    },
+    {
+     "topicId": "68395d1cf7249cca3ac6a907",
+     "name": "Ch-11 : Thermal Properties of Matter",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "68c8f35dd5e2bc1afc3b1155",
+       "title": "Thermal Properties of Matter 01 : Thermal Expansion || Problems || NO DPP",
+       "date": "2025-09-16",
+       "durationMin": 123,
+       "isCompleted": false
+      },
+      {
+       "pwId": "68ca44ab1bd123a956cb127b",
+       "title": "Thermal Properties of Matter 02 : Thermal stress-strain || Bimetallic Strip || Change in Time || NO DPP",
+       "date": "2025-09-17",
+       "durationMin": 123,
+       "isCompleted": false
+      },
+      {
+       "pwId": "68cb9788a7db68ebe14de36c",
+       "title": "Thermal Properties of Matter 03 : Water Equation of Heat || Heat-Capacity || Problems",
+       "date": "2025-09-18",
+       "durationMin": 125,
+       "isCompleted": false
+      },
+      {
+       "pwId": "68cce862ca0b90b8597a8232",
+       "title": "Thermal Properties of Matter 04 : Heat Transfer || Conduction || Problems",
+       "date": "2025-09-19",
+       "durationMin": 125,
+       "isCompleted": false
+      },
+      {
+       "pwId": "68ce39a6f2b3fdce6f5c3773",
+       "title": "Thermal Properties of Matter 05 : Conduction || Radiation",
+       "date": "2025-09-20",
+       "durationMin": 124,
+       "isCompleted": false
+      }
+     ]
+    },
+    {
+     "topicId": "68395d1cf7249cca3ac6a909",
+     "name": "Ch-12 : KTG and Thermodynamics",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "68d0dc2e63134d2f067d2c33",
+       "title": "KTG and Thermodynamics 01 : KTG+Thermodynamics || Problems|| NO DPP",
+       "date": "2025-09-22",
+       "durationMin": 121,
+       "isCompleted": false
+      },
+      {
+       "pwId": "68d23360c2aa6a8e45cc106e",
+       "title": "KTG and Thermodynamics 02 : Thermodynamics and KTG || Problems (Part-02) || NO DPP",
+       "date": "2025-09-23",
+       "durationMin": 114,
+       "isCompleted": false
+      },
+      {
+       "pwId": "68d37f605dfafa2c38fb9c1a",
+       "title": "KTG and Thermodynamics 03 : Cp & Cv || Work || Problems (Graphs)",
+       "date": "2025-09-24",
+       "durationMin": 124,
+       "isCompleted": false
+      },
+      {
+       "pwId": "68d4d13bcb7d3e6ecabdacc4",
+       "title": "KTG and Thermodynamics 04 : Pressure+Graph P.V.T || Processes",
+       "date": "2025-09-25",
+       "durationMin": 124,
+       "isCompleted": false
+      },
+      {
+       "pwId": "68d62250db0012d02f514318",
+       "title": "KTG and Thermodynamics 05 : Problems",
+       "date": "2025-09-26",
+       "durationMin": 122,
+       "isCompleted": false
+      },
+      {
+       "pwId": "68d9feef0de407b1694f6a9b",
+       "title": "KTG and Thermodynamics 06 : Mean Free Path || Refrigerator || Problems || NO DPP || Extra Recorded",
+       "date": "2025-09-29",
+       "durationMin": 72,
+       "isCompleted": false
+      }
+     ]
+    },
+    {
+     "topicId": "68395d1cf7249cca3ac6a90a",
+     "name": "Ch - 13 : Simple Harmonic Motion",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "68d7793d81708623a5830d83",
+       "title": "Simple Harmonic Motion 01 : Introduction || Equations & Graphs & Basic terms || NO DPP",
+       "date": "2025-09-27",
+       "durationMin": 121,
+       "isCompleted": false
+      },
+      {
+       "pwId": "68da1864ca80768b602aa9d3",
+       "title": "Simple Harmonic Motion 02 : Velocity and Acceleration || Energy of SHW || Phasor/Pendulums || Problems || Rescheduled @9:18 AM",
+       "date": "2025-09-29",
+       "durationMin": 118,
+       "isCompleted": false
+      },
+      {
+       "pwId": "68db683f6effae6afe97bcbc",
+       "title": "Simple Harmonic Motion 03 : Pendulums & Angular SHM || Phasor",
+       "date": "2025-09-30",
+       "durationMin": 123,
+       "isCompleted": false
+      },
+      {
+       "pwId": "68dcba00516259b7c2b32e71",
+       "title": "Simple Harmonic Motion 04 : Phasor || Pendulum + Spring Block System || Energy Method",
+       "date": "2025-10-01",
+       "durationMin": 124,
+       "isCompleted": false
+      },
+      {
+       "pwId": "68df5d6d08254061b7044bdc",
+       "title": "Simple Harmonic Motion 05 : Energy Method || Damped SHM || Spring Block System || Superposition || NO DPP",
+       "date": "2025-10-03",
+       "durationMin": 123,
+       "isCompleted": false
+      }
+     ]
+    },
+    {
+     "topicId": "68395d1cf7249cca3ac6a90b",
+     "name": "Ch - 14 : Waves",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "68e0ae3fd60b412877daa2d8",
+       "title": "Waves 01 : Introduction || Classification || Wave equation || Velocity of Wave || NO DPP",
+       "date": "2025-10-04",
+       "durationMin": 120,
+       "isCompleted": false
+      },
+      {
+       "pwId": "68e3e1b581b49080e2ba40a9",
+       "title": "Waves 02 : Wave Velocity || Power Transfer || Phase and Path Difference || Rescheduled @ 07:00 PM",
+       "date": "2025-10-06",
+       "durationMin": 125,
+       "isCompleted": false
+      },
+      {
+       "pwId": "68e4a3059e00e2ee5eaf6a4c",
+       "title": "Waves 03 : Power Transfer || Intensity || Path & Phase difference || Change of medium",
+       "date": "2025-10-07",
+       "durationMin": 124,
+       "isCompleted": false
+      },
+      {
+       "pwId": "68e5f3fc7643371f838da68e",
+       "title": "Waves 04 : Standing Waves || Both End fixed & One End Fixed || Sonometer",
+       "date": "2025-10-08",
+       "durationMin": 122,
+       "isCompleted": false
+      },
+      {
+       "pwId": "68e745d88833327050c2a892",
+       "title": "Waves 05 : Sonometer || No DPP",
+       "date": "2025-10-09",
+       "durationMin": 123,
+       "isCompleted": false
+      },
+      {
+       "pwId": "68e897f46169f446a43a7d11",
+       "title": "Waves 06 : Sound Waves || Class notes & Download  Option will be available soon",
+       "date": "2025-10-10",
+       "durationMin": 126,
+       "isCompleted": false
+      },
+      {
+       "pwId": "68e9e6bc8fc1d21cb93ce7c8",
+       "title": "Waves 07 : Effect of Temp, pressure on sound",
+       "date": "2025-10-11",
+       "durationMin": 113,
+       "isCompleted": false
+      },
+      {
+       "pwId": "68ea051cbdf134aa2743cc14",
+       "title": "Waves 08 : Effect of Temp, pressure on sound - II || No DPP || Extra Class || Class notes & Download  Option will be available soon",
+       "date": "2025-10-11",
+       "durationMin": 109,
+       "isCompleted": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "key": "Physical Chemistry (Faisal Razaq Sir)",
+   "batchSlug": "prayas-2027-746901",
+   "subjectSlug": "physical-chemistry-186128",
+   "source": "Physics Wallah API",
+   "subjectGroup": "chemistry",
+   "playlistUrl": "https://youtube.com/playlist?list=PLxyGaR3hEy3hpXYV-iwKkj1lT1iyultEP",
+   "fullyComplete": false,
+   "lectureTotal": 78,
+   "lectureDone": 30,
+   "chapters": [
+    {
+     "topicId": "69e7267e3e82a6c14aaad7e1",
+     "name": "Some Basic Concepts of Chemistry",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "69e879580468b75f8654cc83",
+       "title": "Lec-01 SOME BASIC CONCEPTS OF CHEMISTRY By (Faisal sir)",
+       "date": "2026-04-22",
+       "durationMin": 108,
+       "isCompleted": true
+      },
+      {
+       "pwId": "69e9cefcf23305a697532cc9",
+       "title": "Some Basic Concepts of Chemistry 02 : Relative Atomic Mass || Atomic Mass Unit ||  Atomic mass and Molecular Mass || Calculations of p,n,e || NO DPP",
+       "date": "2026-04-23",
+       "durationMin": 117,
+       "isCompleted": true
+      },
+      {
+       "pwId": "69eb227253ef439e9798eb00",
+       "title": "Some Basic Concepts of Chemistry 03 : Calculations of Mole",
+       "date": "2026-04-24",
+       "durationMin": 110,
+       "isCompleted": true
+      },
+      {
+       "pwId": "69ef105dd1fb99cdf28e5c6c",
+       "title": "Some Basic Concepts of Chemistry 04 : Calculation of Mole || Percentage Calculations",
+       "date": "2026-04-27",
+       "durationMin": 116,
+       "isCompleted": true
+      },
+      {
+       "pwId": "69f065eab40174a3b8582be6",
+       "title": "Some Basic Concepts of Chemistry 05 : Percentage Calculation || Empirical Formula || Density",
+       "date": "2026-04-28",
+       "durationMin": 125,
+       "isCompleted": true
+      },
+      {
+       "pwId": "69f1b3747dd4c56cd3422a3f",
+       "title": "Some Basic Concepts of Chemistry 06 : Percentage Calculation || Empirical Formula || Density (Part-02)",
+       "date": "2026-04-29",
+       "durationMin": 117,
+       "isCompleted": true
+      },
+      {
+       "pwId": "69f30651661940ba5253e440",
+       "title": "Some Basic Concepts of Chemistry 07 : Density || Stoichiometry || NO DPP",
+       "date": "2026-04-30",
+       "durationMin": 108,
+       "isCompleted": true
+      },
+      {
+       "pwId": "69f5a647825d09e805260f64",
+       "title": "Some Basic Concepts of Chemistry 08 : Stoichiometry || NO DPP",
+       "date": "2026-05-02",
+       "durationMin": 110,
+       "isCompleted": true
+      },
+      {
+       "pwId": "69f84d89af1d1a49f95c6ccc",
+       "title": "Some Basic Concepts of Chemistry 09 : Stoichiometry || POAC || Concentration Terms",
+       "date": "2026-05-04",
+       "durationMin": 115,
+       "isCompleted": true
+      },
+      {
+       "pwId": "69f99e0fcfe0296385337bf7",
+       "title": "Some Basic Concepts of Chemistry 10 : Stoichiometry || POAC || Concentration Terms (Part-02)",
+       "date": "2026-05-05",
+       "durationMin": 112,
+       "isCompleted": true
+      },
+      {
+       "pwId": "69faf0d8632a046fb07f4c90",
+       "title": "Some Basic Concepts of Chemistry 11 : Stoichiometry || POAC || Concentration Terms (Part-03)",
+       "date": "2026-05-06",
+       "durationMin": 106,
+       "isCompleted": true
+      },
+      {
+       "pwId": "69fc3d5f73ba6f08cb55fca9",
+       "title": "Some Basic Concepts of Chemistry 12 : Concentration Terms",
+       "date": "2026-05-07",
+       "durationMin": 110,
+       "isCompleted": true
+      },
+      {
+       "pwId": "69fd923739602b7b5adee522",
+       "title": "Some Basic Concepts of Chemistry 13 : Laws of Chemical Combination || Eudiometry",
+       "date": "2026-05-08",
+       "durationMin": 113,
+       "isCompleted": true
+      }
+     ]
+    },
+    {
+     "topicId": "69e7267e3e82a6c14aaad7e2",
+     "name": "Redox Reaction",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "69fede94e08a32ba70b430f1",
+       "title": "Redox Reaction 01 : Oxidation State || Redox Reaction || NO DPP",
+       "date": "2026-05-09",
+       "durationMin": 103,
+       "isCompleted": true
+      },
+      {
+       "pwId": "6a0183e620f7ba65c52f637a",
+       "title": "Redox Reaction 02 : Types of Redox Reactions || n-Factor Calculations",
+       "date": "2026-05-11",
+       "durationMin": 112,
+       "isCompleted": true
+      },
+      {
+       "pwId": "6a02d3224de4b8d62ed67f87",
+       "title": "Redox Reaction 03 : n-factor Calculation || Law of Equivalence",
+       "date": "2026-05-12",
+       "durationMin": 102,
+       "isCompleted": true
+      },
+      {
+       "pwId": "6a0427aeb38ff45b19ec59f5",
+       "title": "Redox Reaction 04 : n-Factor Calculation || Law of Equivalence (Part-02)",
+       "date": "2026-05-13",
+       "durationMin": 114,
+       "isCompleted": true
+      },
+      {
+       "pwId": "6a057a62202bd33e71a396cf",
+       "title": "Redox Reaction 05 : Law of Equivalence || Simple Titration || Double Titration",
+       "date": "2026-05-14",
+       "durationMin": 119,
+       "isCompleted": true
+      },
+      {
+       "pwId": "6a06cbbffc27844ce3afe97b",
+       "title": "Redox Reaction 06 : Balancing of Redox Reaction || Vapour Pressure || NO DPP",
+       "date": "2026-05-15",
+       "durationMin": 114,
+       "isCompleted": true
+      }
+     ]
+    },
+    {
+     "topicId": "69e7267e3e82a6c14aaad7e3",
+     "name": "Solutions",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "6a081cba6458495acaa045ce",
+       "title": "Solutions 01 : Vapour Pressure || NO DPP",
+       "date": "2026-05-16",
+       "durationMin": 115,
+       "isCompleted": true
+      },
+      {
+       "pwId": "6a0ae183dd1dabee8daac634",
+       "title": "Solutions 02 : Vapour Pressure of Solutions",
+       "date": "2026-05-18",
+       "durationMin": 110,
+       "isCompleted": true
+      },
+      {
+       "pwId": "6a0c317e87eb64d0af25b7f6",
+       "title": "Solutions 03 : Vapour Pressure of Solutions (Part-02)",
+       "date": "2026-05-19",
+       "durationMin": 103,
+       "isCompleted": true
+      },
+      {
+       "pwId": "6a0d60fc2995c01355f22ae5",
+       "title": "Solutions 04 : Vapour Pressure of Solutions (Part-03)",
+       "date": "2026-05-20",
+       "durationMin": 110,
+       "isCompleted": true
+      },
+      {
+       "pwId": "6a0eb4d7defeb89061a0f7f9",
+       "title": "Solutions 05 : Vapour Pressure of Solutions || Ideal and Non-Ideal Solutions || NO DPP",
+       "date": "2026-05-21",
+       "durationMin": 114,
+       "isCompleted": true
+      },
+      {
+       "pwId": "6a0fe66046e2f7abd8fdf03e",
+       "title": "Solutions 06 : Ideal and Non-Ideal Solutions || Azeotropes || Colligative Properties",
+       "date": "2026-05-22",
+       "durationMin": 116,
+       "isCompleted": true
+      },
+      {
+       "pwId": "6a116417e058e12ecc5b8e0b",
+       "title": "Solutions 07 : Ideal and Non-Ideal Solutions || Azeotropes || Colligative Properties (Part-02)",
+       "date": "2026-05-23",
+       "durationMin": 111,
+       "isCompleted": true
+      },
+      {
+       "pwId": "6a13d8a32a6961b876ab4486",
+       "title": "Solutions 08 : Colligative Properties || NO DPP",
+       "date": "2026-05-25",
+       "durationMin": 109,
+       "isCompleted": true
+      },
+      {
+       "pwId": "6a156f5a79b9529853262359",
+       "title": "Solutions 09 : Colligative Properties (Part-02) || NO DPP",
+       "date": "2026-05-26",
+       "durationMin": 118,
+       "isCompleted": true
+      }
+     ]
+    },
+    {
+     "topicId": "69e7267e3e82a6c14aaad7e4",
+     "name": "Chemical Kinetics",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "6a169be5291d87ef87333dcf",
+       "title": "Chemical Kinetics 01 : Henry's Law || Rate of Reaction || NO DPP",
+       "date": "2026-05-27",
+       "durationMin": 108,
+       "isCompleted": true
+      },
+      {
+       "pwId": "6a19409918bb29ec22e96685",
+       "title": "Chemical Kinetics 02 : Factors Affecting Rate || Rate Law",
+       "date": "2026-05-29",
+       "durationMin": 112,
+       "isCompleted": true
+      },
+      {
+       "pwId": "6a1a90bc79186e9c39ab13b8",
+       "title": "Chemical Kinetics 03 : Mechanism Verification || Zero Order Reaction",
+       "date": "2026-05-30",
+       "durationMin": 113,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6a1d35882a6961b876b3679b",
+       "title": "Chemical Kinetics 04 : First Order Kinetics",
+       "date": "2026-06-01",
+       "durationMin": 104,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6a1e859d7b5088b9eb1a9b8b",
+       "title": "Chemical Kinetics 05 : First Order Kinetics (Part-02) || NO DPP || Reschedule @11:10 AM",
+       "date": "2026-06-02",
+       "durationMin": 102,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6a1fd76f2a0a45be8453195a",
+       "title": "Chemical Kinetics 06 : First Order Kinetics (Part-03) || Reschedule @11:10 AM",
+       "date": "2026-06-03",
+       "durationMin": 104,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6a21273b1946c5ee0385bf06",
+       "title": "Chemical Kinetics 07 : First Order Kinetics (Part-04)",
+       "date": "2026-06-04",
+       "durationMin": 107,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6a23ce66be2066ec6a47f8f3",
+       "title": "Chemical Kinetics 08 : First Order Kinetics (Part-05) || NO DPP",
+       "date": "2026-06-06",
+       "durationMin": 126,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6a33dbbd5bf70a515e2e578c",
+       "title": "Chemical Kinetics 09 : Binding Energy || n/p Ratio || Emissions || NO DPP || Extra Lecture || Recorded",
+       "date": "2026-06-18",
+       "durationMin": 85,
+       "isCompleted": false
+      }
+     ]
+    },
+    {
+     "topicId": "69e7267e98650f899e7f678e",
+     "name": "Thermodynamics",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "6a266e9316afc4d2b662e7b9",
+       "title": "Thermodynamics 01 : Collision Theory || Steady State Approximation || NO DPP",
+       "date": "2026-06-08",
+       "durationMin": 112,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6a27be86f3236fa519190c31",
+       "title": "Thermodynamics 02 : State and Path Function || Relation Between △H and △U || Different Processes || NO DPP",
+       "date": "2026-06-09",
+       "durationMin": 109,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6a2911f3a753f6e2924be27f",
+       "title": "Thermodynamics 03 : State and Path Function || Relation Between △H and △U || Different Processes (Part-02)",
+       "date": "2026-06-10",
+       "durationMin": 115,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6a2a6316815d8b65402f38f0",
+       "title": "Thermodynamics 04 : State and Path Function || Relation Between △H and △U || Different Processes (Part-03)",
+       "date": "2026-06-11",
+       "durationMin": 112,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6a2bb46f235134f56a1c24b0",
+       "title": "Thermodynamics 05 : Isothermal Process || Adiabatic Process",
+       "date": "2026-06-12",
+       "durationMin": 112,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6a2d05445f8461b7ba10cfe5",
+       "title": "Thermodynamics 06 : Adiabatic Process || Thermochemistry || NO DPP",
+       "date": "2026-06-13",
+       "durationMin": 110,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6a2fa6a91c0f1c52c2552bd1",
+       "title": "Thermodynamics 07 : Thermochemistry",
+       "date": "2026-06-15",
+       "durationMin": 101,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6a30f766df3d10032c745f6d",
+       "title": "Thermodynamics 08 : Thermochemistry (Part-02)",
+       "date": "2026-06-16",
+       "durationMin": 101,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6a324b51a6b046c5913ad878",
+       "title": "Thermodynamics 09 : Thermochemistry (Part-03)",
+       "date": "2026-06-17",
+       "durationMin": 107,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6a339bd809a59f6fb38a24c2",
+       "title": "Thermodynamics 10 : Second Law of Thermodynamics",
+       "date": "2026-06-18",
+       "durationMin": 105,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6a34effff4127f25b7969bd2",
+       "title": "Thermodynamics 11 : Second Law of Thermodynamics (Part-02)",
+       "date": "2026-06-19",
+       "durationMin": 115,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6a3640921e5b1b8448130111",
+       "title": "Thermodynamics 12 : Second Law of Thermodynamics (Part-03)",
+       "date": "2026-06-20",
+       "durationMin": 114,
+       "isCompleted": false
+      }
+     ]
+    },
+    {
+     "topicId": "69e7267e3e82a6c14aaad7e5",
+     "name": "Chemical Equilibrium",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "6a38e4dc78ec2aa2a00e9939",
+       "title": "Chemical Equilibrium 01 : Bomb Calorimeter || Equilibrium Constant || NO DPP || Reschedule @11:10 AM",
+       "date": "2026-06-22",
+       "durationMin": 103,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6a3a333648889a7e0847b28a",
+       "title": "Chemical Equilibrium 02 : Equilibrium Constant || NO DPP",
+       "date": "2026-06-23",
+       "durationMin": 107,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6a3b94c5e5fe96a4f186c21c",
+       "title": "Chemical Equilibrium 03 : Equilibrium Constant (Part-02)",
+       "date": "2026-06-24",
+       "durationMin": 112,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6a3cd8b12db9cb7e56e0c6f1",
+       "title": "Chemical Equilibrium 04 : Heterogeneous Equilibrium || Multiple Equilibrium || Simultaneous Equilibrium",
+       "date": "2026-06-25",
+       "durationMin": 115,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6a3e0478407da0478c1ea86b",
+       "title": "Chemical Equilibrium 05 : Simultaneous Equilibrium || Recorded",
+       "date": "2026-06-26",
+       "durationMin": 94,
+       "isCompleted": false
+      }
+     ]
+    },
+    {
+     "topicId": "69e7267e3e82a6c14aaad7e6",
+     "name": "Ionic Equilibrium",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "6a427e41cc051cd575af9d96",
+       "title": "Ionic Equilibrium 01 : pH Calculations || NO DPP || Reschedule @06:00 PM",
+       "date": "2026-06-29",
+       "durationMin": 102,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6a43718a5ef9adf847219657",
+       "title": "Ionic Equilibrium 02 : pH Calculations (Part-02) || NO DPP",
+       "date": "2026-06-30",
+       "durationMin": 119,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6a44bfd9874474b7573ccdcb",
+       "title": "Ionic Equilibrium 03 : pH Calculations (Part-03) || NO DPP",
+       "date": "2026-07-01",
+       "durationMin": 108,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6a4611af4a57570495aef057",
+       "title": "Ionic Equilibrium 04 : Salt Hydrolysis",
+       "date": "2026-07-02",
+       "durationMin": 111,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6a4764cf6f66fdfc7eaa9b4d",
+       "title": "Ionic Equilibrium 05 : Salt Hydrolysis (Part-02)",
+       "date": "2026-07-03",
+       "durationMin": 112,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6a48b5963450081665da8543",
+       "title": "Ionic Equilibrium 06 : Salt Hydrolysis || Buffer Solution || Reschedule @11:15 AM",
+       "date": "2026-07-04",
+       "durationMin": 100,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6a4b5c082264e56f77aa707f",
+       "title": "Ionic Equilibrium 07 : Buffer Solution",
+       "date": "2026-07-06",
+       "durationMin": 119,
+       "isCompleted": false
+      }
+     ]
+    },
+    {
+     "topicId": "69e7267e3e82a6c14aaad7e8",
+     "name": "Electrochemistry",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "6a4ca9c8ea55202709de4214",
+       "title": "Electrochemistry 01 : Titration Curves || Introduction || NO DPP",
+       "date": "2026-07-07",
+       "durationMin": 112,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6a4dfceada4557a969d16a4c",
+       "title": "Electrochemistry 02 :  Introduction || NO DPP",
+       "date": "2026-07-08",
+       "durationMin": 112,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6a509f9929c2334a32878351",
+       "title": "Electrochemistry 03 : Standard Electrode Potential",
+       "date": "2026-07-10",
+       "durationMin": 110,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6a51eff4c9911058770673c8",
+       "title": "Electrochemistry 04 : Nernst Equation",
+       "date": "2026-07-11",
+       "durationMin": 115,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6a54971dcae4fc057a1ffd15",
+       "title": "Electrochemistry 05 : Nernst Equation (Part-02)",
+       "date": "2026-07-13",
+       "durationMin": 114,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6a54d895f94a52d68c02e2ca",
+       "title": "Electrochemistry 06 : Nernst Equation (Part-03) || NO DPP || Extra Lecture",
+       "date": "2026-07-13",
+       "durationMin": 80,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6a55e29cf9fc120f38fa1120",
+       "title": "Electrochemistry 07 : Nernst Equation (Part-04) || Reschedule @11:10 AM",
+       "date": "2026-07-14",
+       "durationMin": 96,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6a562529c4375c4c9f55bf07",
+       "title": "Electrochemistry 08 : Nernst Equation (Part-05) || NO DPP || Extra Lecture",
+       "date": "2026-07-14",
+       "durationMin": 57,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6a5b4ed7ed553835c3b7d80d",
+       "title": "PRAYAS JEE 2027 Physical Chemistry Lecture no. 9 ELECTROCHEMISTRY By Faizal Razak sir",
+       "date": "2026-07-18",
+       "durationMin": 167,
+       "isCompleted": false
+      }
+     ]
+    },
+    {
+     "topicId": "69e7267e3e82a6c14aaad7e7",
+     "name": "Structure of Atom",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "6a57346db35d17f7471713e8",
+       "title": "Structure of Atom 01 : Structure of Atom || NO DPP",
+       "date": "2026-07-15",
+       "durationMin": 106,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6a58852bad96eb56d91da8a5",
+       "title": "Structure of Atom 02 : Rudherford Model || Closest Distance of Approach || EMR",
+       "date": "2026-07-16",
+       "durationMin": 104,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6a59d8b7384be5ddcda4a5cb",
+       "title": "Structure of Atom 03 : Closest Distance of Approach || EMR",
+       "date": "2026-07-17",
+       "durationMin": 110,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6a5b2a63664a50cb8831ebae",
+       "title": "Structure of Atom 04 : Quantum Numbers",
+       "date": "2026-07-18",
+       "durationMin": 108,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6a6320df7106ce9d04f6faed",
+       "title": "Structure of Atom 05 : Bohr's Model || NO DPP || Recorded || Extra Lecture",
+       "date": "2026-07-24",
+       "durationMin": 139,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6a6340842d51f6747b06a673",
+       "title": "Structure of Atom 06 : Hydrogen Emission Spectrum || NO DPP || Recorded || Extra Lecture",
+       "date": "2026-07-25",
+       "durationMin": 202,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6a649fa4663c82e3d500437b",
+       "title": "Structure of Atom 07 : De Broglie Wavelength || Heisenberg's Uncetainty Principle || NO DPP || Extra Lecture || Recorded",
+       "date": "2026-07-26",
+       "durationMin": 258,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6a64ab1c714498b539287e10",
+       "title": "Structure of Atom 08 : Photo electric Effect || Wave Mechanical Model || NO DPP || Extra Lecture || Recorded",
+       "date": "2026-07-29",
+       "durationMin": 109,
+       "isCompleted": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "key": "Inorganic Chemistry (Om Pandey Sir)",
+   "batchSlug": "prayas-jee-2-0-2026-222936",
+   "subjectSlug": "inorganic-chemistry-956522",
+   "source": "Physics Wallah API",
+   "subjectGroup": "chemistry",
+   "playlistUrl": "https://youtube.com/playlist?list=PLxyGaR3hEy3hpXYV-iwKkj1lT1iyultEP",
+   "fullyComplete": false,
+   "lectureTotal": 68,
+   "lectureDone": 13,
+   "chapters": [
+    {
+     "topicId": "68440c2468fb00b95468b83b",
+     "name": "Ch-01 : Periodic Table",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "686cc90381dc5f7c00ce3b9a",
+       "title": "Periodic Table 01 : Learning Approach To IOC || Mnemonics To Remember Periodic Table || NO DPP",
+       "date": "2025-07-08",
+       "durationMin": 113,
+       "isCompleted": true
+      },
+      {
+       "pwId": "686e19c83e46f12493459746",
+       "title": "Periodic Table 02 : Learning Approach To IOC || NO DPP",
+       "date": "2025-07-09",
+       "durationMin": 117,
+       "isCompleted": true
+      },
+      {
+       "pwId": "686f6c657fe0f4cf4396d629",
+       "title": "Periodic Table 03 : Electronic Configuration",
+       "date": "2025-07-10",
+       "durationMin": 117,
+       "isCompleted": true
+      },
+      {
+       "pwId": "6870bdf7c25ba20016866572",
+       "title": "Periodic Table 04 : Electronic Configuration",
+       "date": "2025-07-11",
+       "durationMin": 118,
+       "isCompleted": true
+      },
+      {
+       "pwId": "68720e852abed4b3e12c90d6",
+       "title": "Periodic Table 05 : Atomic Size",
+       "date": "2025-07-12",
+       "durationMin": 116,
+       "isCompleted": true
+      },
+      {
+       "pwId": "6874b4c1a50f28c62d4e39cb",
+       "title": "Periodic Table 06 : Atomic Size And Ionisation Energy",
+       "date": "2025-07-14",
+       "durationMin": 119,
+       "isCompleted": true
+      },
+      {
+       "pwId": "687601b0243f67677f32fb98",
+       "title": "Periodic Table 07 : Ionisation Energy",
+       "date": "2025-07-15",
+       "durationMin": 111,
+       "isCompleted": true
+      },
+      {
+       "pwId": "68775572487898cf48d64d2f",
+       "title": "Periodic Table 08 : Electron Gain Enthalpy || Rescheduled @11:15 AM",
+       "date": "2025-07-16",
+       "durationMin": 106,
+       "isCompleted": true
+      },
+      {
+       "pwId": "6878a4b78d1df8f71403dcfb",
+       "title": "Periodic Table 09 : Electron Gain Enthalpy",
+       "date": "2025-07-17",
+       "durationMin": 108,
+       "isCompleted": true
+      },
+      {
+       "pwId": "6879f80f865eadd893834756",
+       "title": "Periodic Table 10 : Oxides",
+       "date": "2025-07-18",
+       "durationMin": 118,
+       "isCompleted": true
+      }
+     ]
+    },
+    {
+     "topicId": "68440c2468fb00b95468b83c",
+     "name": "Ch-02 : Chemical Bonding",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "687b49972baf078b757256fa",
+       "title": "Chemical Bonding  01 : Introduction || NO DPP",
+       "date": "2025-07-19",
+       "durationMin": 120,
+       "isCompleted": true
+      },
+      {
+       "pwId": "687de9a5c0d84251466b5eaf",
+       "title": "Chemical Bonding 02 : Formal Charge And VBT",
+       "date": "2025-07-21",
+       "durationMin": 107,
+       "isCompleted": true
+      },
+      {
+       "pwId": "687f3d3f585ce6896e31d809",
+       "title": "Chemical Bonding 03 : VBT",
+       "date": "2025-07-22",
+       "durationMin": 107,
+       "isCompleted": true
+      },
+      {
+       "pwId": "6880950a67fdbde016f74176",
+       "title": "Chemical Bonding 04 : VSPER Theory || Rescheduled @11:15 AM",
+       "date": "2025-07-23",
+       "durationMin": 110,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6881e03307e2af9f5f07eb1f",
+       "title": "Chemical Bonding 05 : VSPER Theory",
+       "date": "2025-07-24",
+       "durationMin": 113,
+       "isCompleted": false
+      },
+      {
+       "pwId": "688331e105afb8de207d7f97",
+       "title": "Chemical Bonding 06 : VSPER Theory (Part -02) by Om Pandey Sir",
+       "date": "2025-07-25",
+       "durationMin": 106,
+       "isCompleted": false
+      },
+      {
+       "pwId": "688485128ddc96c28a09037d",
+       "title": "Chemical Bonding 07 : Hybridisation",
+       "date": "2025-07-26",
+       "durationMin": 118,
+       "isCompleted": false
+      },
+      {
+       "pwId": "688723340b64ef7601b1937b",
+       "title": "Chemical Bonding 08 : Hybridisation (Part-02) || (NO DPP)",
+       "date": "2025-07-28",
+       "durationMin": 103,
+       "isCompleted": false
+      },
+      {
+       "pwId": "688878bc4482db3b9690f88a",
+       "title": "Chemical Bonding 09 : Resonance And Bond Angle",
+       "date": "2025-07-29",
+       "durationMin": 114,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6889c9a452a833e79e636f2e",
+       "title": "Chemical Bonding 10 : Bond Angle And % S Character",
+       "date": "2025-07-30",
+       "durationMin": 114,
+       "isCompleted": false
+      },
+      {
+       "pwId": "688b1ad8cd11103205e36b26",
+       "title": "Chemical Bonding 11 : Bond Dissociation Energy, Lewis Acid And Bases || (NO DPP)",
+       "date": "2025-07-31",
+       "durationMin": 113,
+       "isCompleted": false
+      },
+      {
+       "pwId": "688c716ecbc732449d8ed23f",
+       "title": "Chemical Bonding 12 : Bond Dissociation Energy, Lewis Acid And Bases",
+       "date": "2025-08-01",
+       "durationMin": 107,
+       "isCompleted": false
+      },
+      {
+       "pwId": "688dbc8d5a4e5e630f74d532",
+       "title": "Chemical Bonding 13 :  Dipole Moment And MOT || (NO DPP)",
+       "date": "2025-08-02",
+       "durationMin": 111,
+       "isCompleted": false
+      },
+      {
+       "pwId": "68906100616df207d0cf80e2",
+       "title": "Chemical Bonding 14 : Dipole Moment And MOT || (NO DPP)",
+       "date": "2025-08-04",
+       "durationMin": 117,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6891b126a3b8570006b956ce",
+       "title": "Chemical Bonding 15 : MOT",
+       "date": "2025-08-05",
+       "durationMin": 112,
+       "isCompleted": false
+      },
+      {
+       "pwId": "689300f39d741ab90ccf7e3d",
+       "title": "Chemical Bonding 16 : MOT (Part -02) And Back Bonding",
+       "date": "2025-08-06",
+       "durationMin": 101,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6895ab8e1926f91c801f1ccc",
+       "title": "Chemical Bonding 17 : Back Bonding And Bridge Bonding || NO DPP || Rescheduled @11:25 am",
+       "date": "2025-08-08",
+       "durationMin": 100,
+       "isCompleted": false
+      },
+      {
+       "pwId": "68999c11b897e5006cf62b8e",
+       "title": "Chemical Bonding 18 : Back Bonding || (NO DPP)",
+       "date": "2025-08-11",
+       "durationMin": 119,
+       "isCompleted": false
+      },
+      {
+       "pwId": "689aec9f00c5867e01038c02",
+       "title": "Chemical Bonding 19 : Born Haber Cycle/ Thermal Stability  || (NO DPP)",
+       "date": "2025-08-12",
+       "durationMin": 115,
+       "isCompleted": false
+      },
+      {
+       "pwId": "689c3f0a932acd7795489954",
+       "title": "Chemical Bonding 20 : Inter- Molecular FOA  & Hydrogen Bonding",
+       "date": "2025-08-13",
+       "durationMin": 120,
+       "isCompleted": false
+      }
+     ]
+    },
+    {
+     "topicId": "68440c2468fb00b95468b83d",
+     "name": "Ch-03 : Coordination Compounds",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "691194526748b0411facc686",
+       "title": "Coordination Compounds 01 : Introduction and Basic Terms || NO DPP",
+       "date": "2025-11-10",
+       "durationMin": 104,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6912e64d33de16069ca40c37",
+       "title": "Coordination Compounds 02 : Types of Ligands || NO DPP",
+       "date": "2025-11-11",
+       "durationMin": 105,
+       "isCompleted": false
+      },
+      {
+       "pwId": "69143860fbb0283dd386dd67",
+       "title": "Coordination Compounds 03 : IUPAC Name of complex",
+       "date": "2025-11-12",
+       "durationMin": 109,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6915897317f7347018780721",
+       "title": "Coordination Compounds 04 : Tests to confirm coordination compounds",
+       "date": "2025-11-13",
+       "durationMin": 107,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6916ddb028c21e7b0226d16f",
+       "title": "Coordination Compounds 05 : VBT",
+       "date": "2025-11-14",
+       "durationMin": 101,
+       "isCompleted": false
+      },
+      {
+       "pwId": "69182e8cd196f8e4cf97e80a",
+       "title": "Coordination Compounds 06 : CFT",
+       "date": "2025-11-15",
+       "durationMin": 116,
+       "isCompleted": false
+      },
+      {
+       "pwId": "691ad068a79ca0d3e5f8322e",
+       "title": "Coordination Compounds 07 : CFT (Tetrahedral)",
+       "date": "2025-11-17",
+       "durationMin": 110,
+       "isCompleted": false
+      },
+      {
+       "pwId": "691d73f673b0cd0ca674e72b",
+       "title": "Coordination Compounds 08 : Colour of coordination compounds || Rescheduled @11:30 am",
+       "date": "2025-11-19",
+       "durationMin": 97,
+       "isCompleted": false
+      },
+      {
+       "pwId": "691ec5a71a2e44ba0c6ca0da",
+       "title": "Coordination Compounds 09 : Colour of coordination compounds (Part-02) || NO DPP",
+       "date": "2025-11-20",
+       "durationMin": 109,
+       "isCompleted": false
+      },
+      {
+       "pwId": "692019a9d3e0c44b9855fbb5",
+       "title": "Coordination Compounds 10 : Metal Carbonyls || 28 Questions || NO DPP",
+       "date": "2025-11-21",
+       "durationMin": 109,
+       "isCompleted": false
+      },
+      {
+       "pwId": "692169fb49a928574c8e5549",
+       "title": "Coordination Compounds 11 : Effective atomic number + Isomerism",
+       "date": "2025-11-22",
+       "durationMin": 119,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6926ae54a17eb3376e5545ca",
+       "title": "Coordination Compounds 12 : Isomerism || NO DPP",
+       "date": "2025-11-26",
+       "durationMin": 106,
+       "isCompleted": false
+      },
+      {
+       "pwId": "692aa4210f38ad818a0b40f8",
+       "title": "Coordination Compounds 13 : Isomerism (Part - 02) || NO DPP",
+       "date": "2025-11-29",
+       "durationMin": 113,
+       "isCompleted": false
+      },
+      {
+       "pwId": "692d4ae21ab0420dca09b302",
+       "title": "Coordination Compounds 14 : NO DPP || Rescheduled @11:30 AM",
+       "date": "2025-12-01",
+       "durationMin": 99,
+       "isCompleted": false
+      }
+     ]
+    },
+    {
+     "topicId": "68440c2468fb00b95468b83f",
+     "name": "Ch-04 : P-block Elements",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "692e98c4a3dddda6a19d7e55",
+       "title": "P-block Elements 01 : Introduction || First items of the group || Acids || No DPP",
+       "date": "2025-12-02",
+       "durationMin": 0,
+       "isCompleted": false
+      },
+      {
+       "pwId": "692fe9b0a277efec8b15c722",
+       "title": "P-block Elements 02 : Structure of acids || Hydrolysis || No DPP",
+       "date": "2025-12-03",
+       "durationMin": 112,
+       "isCompleted": false
+      },
+      {
+       "pwId": "69313c104cbd6ff9a3a94329",
+       "title": "P-block Elements 03 : Hydrolysis || No DPP || Rescheduled @11:30 AM",
+       "date": "2025-12-04",
+       "durationMin": 96,
+       "isCompleted": false
+      },
+      {
+       "pwId": "69328e5ba33366bbac0f0614",
+       "title": "P-block Elements 04 : NaOH || No DPP",
+       "date": "2025-12-05",
+       "durationMin": 123,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6933e060754e069a7b5f3547",
+       "title": "P-block Elements 05 : Allotropes || Rescheduled @11:30 AM || No DPP",
+       "date": "2025-12-06",
+       "durationMin": 107,
+       "isCompleted": false
+      },
+      {
+       "pwId": "693683b7a5f61aea9bb507e4",
+       "title": "P-block Elements 06 : Reactions of IOC || No DPP || Rescheduled @11:45 AM",
+       "date": "2025-12-08",
+       "durationMin": 92,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6937d4c8de077b34b53ccc22",
+       "title": "P-block Elements 07 : Reactions of IOC (Part-02) || No DPP",
+       "date": "2025-12-09",
+       "durationMin": 115,
+       "isCompleted": false
+      }
+     ]
+    },
+    {
+     "topicId": "68440c2468fb00b95468b840",
+     "name": "Ch-05 : The d and f-Block Elements",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "6939282a9d8d93754653177e",
+       "title": "The d and f-Block Elements 01 : Introduction to d- block Element || Properties of D- Block Element || No DPP",
+       "date": "2025-12-10",
+       "durationMin": 97,
+       "isCompleted": false
+      },
+      {
+       "pwId": "693a75f412671cb91e6cf216",
+       "title": "The d and f-Block Elements 02 : Heat of atomisation || Melting point, boiling point || Reduction potential || No DPP",
+       "date": "2025-12-11",
+       "durationMin": 112,
+       "isCompleted": false
+      },
+      {
+       "pwId": "693bc7d8547263e7287488d6",
+       "title": "The d and f-Block Elements 03 : Rescheduled @11:30 AM",
+       "date": "2025-12-12",
+       "durationMin": 99,
+       "isCompleted": false
+      },
+      {
+       "pwId": "693d189faa262994dc3edbae",
+       "title": "The d and f-Block Elements 04 : SO3 Vs CrO3 || KMnO4",
+       "date": "2025-12-13",
+       "durationMin": 115,
+       "isCompleted": false
+      },
+      {
+       "pwId": "693fbce7d130548215baa917",
+       "title": "The d and f-Block Elements 05 : Oxo - anions of Cr || Halides",
+       "date": "2025-12-15",
+       "durationMin": 116,
+       "isCompleted": false
+      },
+      {
+       "pwId": "69410c62fa8eb5bd7e283aee",
+       "title": "The d and f-Block Elements 05 : Lanthanoids || Actinoids || No DPP",
+       "date": "2025-12-16",
+       "durationMin": 113,
+       "isCompleted": false
+      }
+     ]
+    },
+    {
+     "topicId": "68440c2468fb00b95468b83e",
+     "name": "Ch-06 : Principles of Qualitative Analysis:Salt analysis",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "69425fd05c232dca648f093d",
+       "title": "Principles of Qualitative Analysis : Salt analysis 01 : Introduction || No  DPP",
+       "date": "2025-12-17",
+       "durationMin": 111,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6943afe0483bbfe04695a576",
+       "title": "Principles of Qualitative Analysis : Salt analysis 02 : Test for anion access",
+       "date": "2025-12-18",
+       "durationMin": 113,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6945037d10a9b2d6f399661a",
+       "title": "Principles of Qualitative Analysis : Salt analysis 03 : Test for anion (part-02) || Rescheduled @11:25 AM",
+       "date": "2025-12-19",
+       "durationMin": 114,
+       "isCompleted": false
+      },
+      {
+       "pwId": "694652a05e75e242c030c674",
+       "title": "Principles of Qualitative Analysis : Salt analysis 04 : Test for Cation",
+       "date": "2025-12-20",
+       "durationMin": 109,
+       "isCompleted": false
+      },
+      {
+       "pwId": "694a4929416c6b9f7b344a1e",
+       "title": "Principles of Qualitative Analysis : Salt analysis 05 : Test for Cation (Part-02)",
+       "date": "2025-12-23",
+       "durationMin": 119,
+       "isCompleted": false
+      },
+      {
+       "pwId": "694b993b23b7e7c5ffc3438d",
+       "title": "Principles of Qualitative Analysis : Salt analysis 06 : Test for Cation (Part-03) || No DPP",
+       "date": "2025-12-24",
+       "durationMin": 109,
+       "isCompleted": false
+      }
+     ]
+    },
+    {
+     "topicId": "68440c2468fb00b95468b841",
+     "name": "Ch-07 : Metallurgy",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "67cab7c58e98bee907d1feb9",
+       "title": "Metallurgy ( One shot )  (Om Pandey Sir)",
+       "date": "2026-02-13",
+       "durationMin": 274,
+       "isCompleted": false
+      }
+     ]
+    },
+    {
+     "topicId": "68440c2468fb00b95468b843",
+     "name": "Ch-08 : S Block",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "67a30bd1f30a1c27552a81d5",
+       "title": "S-Block 01 : Oxidation State || NO DPP || Recorded",
+       "date": "2026-02-13",
+       "durationMin": 99,
+       "isCompleted": false
+      },
+      {
+       "pwId": "67a36af9b259012b072c184c",
+       "title": "S-Block 02 : Heating Effect || Reaction with H2, N2, X2 || Recorded",
+       "date": "2026-02-13",
+       "durationMin": 90,
+       "isCompleted": false
+      },
+      {
+       "pwId": "67ae90c05e37d4b5c7a2ea8a",
+       "title": "S-Block 03 : Solvay Process || Anomalous Behavior of Li and Be || Recorded || NO DPP",
+       "date": "2026-02-13",
+       "durationMin": 98,
+       "isCompleted": false
+      }
+     ]
+    },
+    {
+     "topicId": "68440c2468fb00b95468b842",
+     "name": "Ch-09 : Hydrogen",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "67ab442adf679c5dc8f02f8d",
+       "title": "Hydrogen : Complete Chapter (One Shot) || Recorded",
+       "date": "2026-02-13",
+       "durationMin": 172,
+       "isCompleted": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "key": "Organic Chemistry (Rohit Agarwal Sir)",
+   "batchSlug": "jee-coaching-plus-2026-663976",
+   "subjectSlug": "organic-chemistry-by-rohit-agarwal-sir-424778",
+   "source": "Physics Wallah API",
+   "subjectGroup": "chemistry",
+   "playlistUrl": "https://youtube.com/playlist?list=PLxyGaR3hEy3hpXYV-iwKkj1lT1iyultEP",
+   "fullyComplete": false,
+   "lectureTotal": 82,
+   "lectureDone": 3,
+   "chapters": [
+    {
+     "topicId": "68951e128b712dbb8766d123",
+     "name": "Ch- 01 : IUPAC Nomenclature",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "66d06cb7555000d623258da4",
+       "title": "IUPAC Nomenclature 01 : History and Representation of Organic Compound || NO DPP",
+       "date": "2024-08-29",
+       "durationMin": 114,
+       "isCompleted": true
+      },
+      {
+       "pwId": "66d1cd41d89fc7e4234b6e7f",
+       "title": "IUPAC Nomenclature 02 :  Degree of Atom & Functional Groups || Degree of Unsaturation || NO DPP || Rescheduled @ 04:00 PM",
+       "date": "2024-08-30",
+       "durationMin": 137,
+       "isCompleted": true
+      },
+      {
+       "pwId": "66d30d89de3f8883b0f1a0bb",
+       "title": "IUPAC Nomenclature 03 : Homologous Series & General Formula",
+       "date": "2024-08-31",
+       "durationMin": 124,
+       "isCompleted": true
+      },
+      {
+       "pwId": "66d5ba6d818fc6b671c54caa",
+       "title": "IUPAC Nomenclature 04 : Homologous Series & General Formula (Part- 02) || Reschedule @04:00 PM",
+       "date": "2024-09-02",
+       "durationMin": 112,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66d712bd78ba8ae2555f758d",
+       "title": "IUPAC Nomenclature 05 : IUPAC of Hydrocarbon || Reschedule @04:00 PM",
+       "date": "2024-09-03",
+       "durationMin": 125,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66d866184e4f162b70a2f6ba",
+       "title": "IUPAC Nomenclature 06 : IUPAC of Hydrocarbon",
+       "date": "2024-09-04",
+       "durationMin": 132,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66d96b80891d5fc5c4600a66",
+       "title": "IUPAC Nomenclature 07 : IUPAC of Hydrocarbon (Part- 02)",
+       "date": "2024-09-05",
+       "durationMin": 123,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66dabd9959488403af132410",
+       "title": "IUPAC Nomenclature 08 : IUPAC of Functional Group (Part- 02)",
+       "date": "2024-09-06",
+       "durationMin": 123,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66dc0c91891d5fc5c464c3e2",
+       "title": "IUPAC Nomenclature 09 : IUPAC of Functional Group (Part- 03) || Extra Lecture",
+       "date": "2024-09-07",
+       "durationMin": 117,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66ec3e22c0ed58dda7654241",
+       "title": "IUPAC Nomenclature 10 : Common Naming || NO DPP || Extra Lecture || Recorded",
+       "date": "2024-09-20",
+       "durationMin": 87,
+       "isCompleted": false
+      }
+     ]
+    },
+    {
+     "topicId": "68951e128b712dbb8766d126",
+     "name": "Ch- 02 : General Organic Chemistry",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "66defa19425f64fe9469ba7d",
+       "title": "General Organic Chemistry 01 : Basics of GOC || Reschedule @04:10 PM",
+       "date": "2024-09-09",
+       "durationMin": 123,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66e0416f59488403af1cd179",
+       "title": "General Organic Chemistry 02 : Inductive Effect",
+       "date": "2024-09-10",
+       "durationMin": 142,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66e19f9f59488403af1f82c8",
+       "title": "General Organic Chemistry 03 : Resonance",
+       "date": "2024-09-11",
+       "durationMin": 137,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66e2a7684bad07b6a0f2e7bd",
+       "title": "General Organic Chemistry 04 : Resonating Structures",
+       "date": "2024-09-12",
+       "durationMin": 130,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66e3f8ac8bf2b7d86c969c9b",
+       "title": "General Organic Chemistry 05 : Resonance Effect & Aromaticity",
+       "date": "2024-09-13",
+       "durationMin": 124,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66e53cef1875d505329eb931",
+       "title": "General Organic Chemistry 06 : Aromaticity",
+       "date": "2024-09-14",
+       "durationMin": 92,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66e7c9aef2ec15d39dffa390",
+       "title": "General Organic Chemistry 07 : Hyperconjugation || Reschedule @09:25 AM",
+       "date": "2024-09-16",
+       "durationMin": 90,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66e98b2c922f40f2cf383dca",
+       "title": "General Organic Chemistry 08 : Application of GOC || Reschedule @04:30 PM",
+       "date": "2024-09-17",
+       "durationMin": 122,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66eae14722ee7f0efc130381",
+       "title": "General Organic Chemistry 09 : Application of GOC (Part- 02) || Reschedule @04:30 PM",
+       "date": "2024-09-18",
+       "durationMin": 132,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66ebe8b1b37b13dfd5b58781",
+       "title": "General Organic Chemistry 10 : Application of GOC (Part- 03)",
+       "date": "2024-09-19",
+       "durationMin": 123,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66ee8629d423311f276d5e27",
+       "title": "General Organic Chemistry 11 : Acidic Strength",
+       "date": "2024-09-21",
+       "durationMin": 129,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66f13e7666789cd3ffd65902",
+       "title": "General Organic Chemistry 12 : Basic Strength || Reschedule @12:55 PM",
+       "date": "2024-09-23",
+       "durationMin": 117,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66f2c0765e34f3efc6dd952c",
+       "title": "General Organic Chemistry 13 : Practical Organic Chemistry || NO DPP || Reschedule @04:20 PM",
+       "date": "2024-09-24",
+       "durationMin": 112,
+       "isCompleted": false
+      }
+     ]
+    },
+    {
+     "topicId": "68951e128b712dbb8766d127",
+     "name": "Ch- 03 : Isomerism",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "66f412379e591f2f16de34b1",
+       "title": "Isomerism 01 : Structural Isomerism || NO DPP",
+       "date": "2024-09-25",
+       "durationMin": 130,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66f50d35c590cd5cab11377b",
+       "title": "Isomerism 02 : Tautomerism || Reschedule @11:10 AM",
+       "date": "2024-09-26",
+       "durationMin": 77,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66f66fdd3f6c16b7e65a770a",
+       "title": "Isomerism 03 : Stability of Keto-Enol",
+       "date": "2024-09-27",
+       "durationMin": 120,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66f7a9c93dd6f32eb9dd7a7d",
+       "title": "Isomerism 04 : Geometrical Isomerism",
+       "date": "2024-09-28",
+       "durationMin": 135,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66faadbb83ecfd1faf9a3cfc",
+       "title": "Isomerism 05 : Nomenclature of Geometrical Isomerism",
+       "date": "2024-09-30",
+       "durationMin": 143,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66fc01273eb61bd2ff24f4e8",
+       "title": "Isomerism 06 : Plane of Symmetry",
+       "date": "2024-10-01",
+       "durationMin": 149,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66fe57441defd107787ac8d9",
+       "title": "Isomerism 07 : Optical Experiment & COS",
+       "date": "2024-10-03",
+       "durationMin": 124,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66ffaa27b4ae2148a5e3af1e",
+       "title": "Isomerism 08 : Calculation on Experiment",
+       "date": "2024-10-04",
+       "durationMin": 121,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6700fa1bc683fd081e1f4cdf",
+       "title": ": Isomerism 09 : Chiral Centre & Newmann Projection",
+       "date": "2024-10-05",
+       "durationMin": 124,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6703d96c94433bcf418e69f0",
+       "title": "Isomerism 10 : Fisher Projection",
+       "date": "2024-10-07",
+       "durationMin": 129,
+       "isCompleted": false
+      },
+      {
+       "pwId": "67053b35634d2a9e172cac6b",
+       "title": "Isomerism 11 : Nomenclature and Relations of Optical Isomers || Reschedule @04:30 PM",
+       "date": "2024-10-08",
+       "durationMin": 120,
+       "isCompleted": false
+      },
+      {
+       "pwId": "670692ee84e81fb4041273a5",
+       "title": "Isomerism 12 : Calculation of Stereoisomers",
+       "date": "2024-10-09",
+       "durationMin": 158,
+       "isCompleted": false
+      },
+      {
+       "pwId": "67078f782ca0a47fbb5bb502",
+       "title": "Isomerism 13 : Chair Conformation",
+       "date": "2024-10-10",
+       "durationMin": 124,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6708e02ce5467dec144b0662",
+       "title": "Isomerism 14 : Cyclic Conformations || NO DPP",
+       "date": "2024-10-11",
+       "durationMin": 129,
+       "isCompleted": false
+      },
+      {
+       "pwId": "670d227b7eec8f6ac0fa9dbb",
+       "title": "Isomerism 15 : Calculation of Stereoisomer || NO DPP",
+       "date": "2024-10-14",
+       "durationMin": 135,
+       "isCompleted": false
+      }
+     ]
+    },
+    {
+     "topicId": "68951e128b712dbb8766d128",
+     "name": "Ch- 04 : Hydrocarbon",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "670e707e91e3dced9fa50c8d",
+       "title": "Hydrocarbon 01 : Introduction to Hydrocarbon || (Class Notes & Download Option Will Be Provided Soon)",
+       "date": "2024-10-15",
+       "durationMin": 130,
+       "isCompleted": false
+      },
+      {
+       "pwId": "67111d472883538fbed304b4",
+       "title": "Hydrocarbon 02 : Electrolysis & Photohalogenation || Reschedule @04:30 PM",
+       "date": "2024-10-17",
+       "durationMin": 135,
+       "isCompleted": false
+      },
+      {
+       "pwId": "671210c57127320baef7cb03",
+       "title": "Hydrocarbon 03 : NBS || Reschedule @11:15 AM",
+       "date": "2024-10-18",
+       "durationMin": 114,
+       "isCompleted": false
+      },
+      {
+       "pwId": "671369463139a15f69e861c6",
+       "title": "Hydrocarbon 04 : Rearrangement of Carbocation",
+       "date": "2024-10-19",
+       "durationMin": 118,
+       "isCompleted": false
+      },
+      {
+       "pwId": "67175668caf36d658347a846",
+       "title": "Hydrocarbon 05 : Addition of HX || Rescheduled @11:05 AM",
+       "date": "2024-10-22",
+       "durationMin": 122,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6718ae14621368331c5151b5",
+       "title": "Hydrocarbon 06 : Addition of X2 || Kuchrov's Reaction || Reschedule @11:15 AM",
+       "date": "2024-10-23",
+       "durationMin": 135,
+       "isCompleted": false
+      },
+      {
+       "pwId": "671a2e343abedc843f58d515",
+       "title": "Hydrocarbon 07 : OMDM & HBO || Reschedule @11:10 AM",
+       "date": "2024-10-24",
+       "durationMin": 153,
+       "isCompleted": false
+      },
+      {
+       "pwId": "671b49cbc8735d4022b71e80",
+       "title": "Hydrocarbon 08 : Kharasch Effect || Hydrogenation",
+       "date": "2024-10-25",
+       "durationMin": 122,
+       "isCompleted": false
+      },
+      {
+       "pwId": "671c9db189e8c189de1dbe9e",
+       "title": "Hydrocarbon 09 : Birch Reduction || Sodalime Decarboxylation || Oxidation of Alkene || Reschedule @11:05 AM",
+       "date": "2024-10-26",
+       "durationMin": 127,
+       "isCompleted": false
+      },
+      {
+       "pwId": "671f428a4d3988c84623cb22",
+       "title": "Hydrocarbon 10 : Ozonolysis & Hot KMnO4",
+       "date": "2024-10-28",
+       "durationMin": 138,
+       "isCompleted": false
+      },
+      {
+       "pwId": "672091803b2fdd7dbb24a3e6",
+       "title": "Hydrocarbon 11 :  EAS || Reactivity And Orientation",
+       "date": "2024-10-29",
+       "durationMin": 124,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6721e3f4befea9865c033a09",
+       "title": "Hydrocarbon 12 : Example of EAS || Reschedule @11:15 AM",
+       "date": "2024-10-30",
+       "durationMin": 119,
+       "isCompleted": false
+      },
+      {
+       "pwId": "67287d1af158744e30c04437",
+       "title": "Hydrocarbon 13 : Friedel Craft Reactions || Diazotisation",
+       "date": "2024-11-04",
+       "durationMin": 135,
+       "isCompleted": false
+      }
+     ]
+    },
+    {
+     "topicId": "68951e128b712dbb8766d12a",
+     "name": "Ch- 05 : Haloalkanes And Haloarenes",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "6729cbafcb774b33fea484cd",
+       "title": "Haloalkanes And Haloarenes 01 : Coupling & SN1Ar",
+       "date": "2024-11-05",
+       "durationMin": 128,
+       "isCompleted": false
+      },
+      {
+       "pwId": "672b20b3f8e40f8753098589",
+       "title": "Haloalkanes And Haloarenes 02 : Coupling Reaction || Reschedule @11:15 AM",
+       "date": "2024-11-06",
+       "durationMin": 129,
+       "isCompleted": false
+      },
+      {
+       "pwId": "672f36b2f3156e908ff39c91",
+       "title": "Haloalkanes And Haloarenes 03 : SN2 & SN1 || Recorded || Reschedule @06:00 PM",
+       "date": "2024-11-09",
+       "durationMin": 106,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6731b4889ac13260f02be90a",
+       "title": "Haloalkanes And Haloarenes 04 : Application of SN || Rescheduled @10:45 AM",
+       "date": "2024-11-11",
+       "durationMin": 141,
+       "isCompleted": false
+      },
+      {
+       "pwId": "67330673f0ec878c9841320e",
+       "title": "Haloalkanes And Haloarenes 05 : Application of SN (Part- 02) || Rescheduled @10:45 AM",
+       "date": "2024-11-12",
+       "durationMin": 138,
+       "isCompleted": false
+      },
+      {
+       "pwId": "673456fa79a53d421a41e038",
+       "title": "Haloalkanes And Haloarenes 06 : SNAE Reaction || E1 Reaction",
+       "date": "2024-11-13",
+       "durationMin": 124,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6735a982d30716c4aee72226",
+       "title": "Haloalkanes And Haloarenes 07 : E2 Reaction",
+       "date": "2024-11-14",
+       "durationMin": 125,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6736fc34922b39dc37a81fc1",
+       "title": "Haloalkanes And Haloarenes 08 : SN vs E || Williamson Ether Synthesis || Reschedule @11:15 AM",
+       "date": "2024-11-15",
+       "durationMin": 119,
+       "isCompleted": false
+      }
+     ]
+    },
+    {
+     "topicId": "68951e128b712dbb8766d12b",
+     "name": "Ch- 06 : Alcohols, Phenols And Ethers",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "67384ddba68b18cee4d1a6f8",
+       "title": "Alcohols, Phenols And Ethers 01 : HEME & Dehalogenation   || Rescheduled @ 11:20 AM",
+       "date": "2024-11-16",
+       "durationMin": 115,
+       "isCompleted": false
+      },
+      {
+       "pwId": "673aee5b52ffe4f12b11dc4b",
+       "title": "Alcohols, Phenols And Ethers 02 : Grignard Reagent",
+       "date": "2024-11-18",
+       "durationMin": 124,
+       "isCompleted": false
+      },
+      {
+       "pwId": "673c407c6e1adcf470f683bd",
+       "title": "Alcohols, Phenols And Ethers 03 : Reduction by Metallic Hydride || Reduction with Metal & Acid || Reschedule @11:05 AM",
+       "date": "2024-11-19",
+       "durationMin": 117,
+       "isCompleted": false
+      },
+      {
+       "pwId": "673d91a2504cbb8b79981bc9",
+       "title": "Alcohols, Phenols And Ethers 04 : Clemmensen & Wolff Kishner || Oxidation of Ketone|| Reschedule @11:45 AM",
+       "date": "2024-11-20",
+       "durationMin": 80,
+       "isCompleted": false
+      },
+      {
+       "pwId": "673ee3efcf90a5f31a4866fa",
+       "title": "Alcohols, Phenols And Ethers 05 : Oxidation Of Aldehyde || Test Of Alcohol And Phenol",
+       "date": "2024-11-21",
+       "durationMin": 130,
+       "isCompleted": false
+      },
+      {
+       "pwId": "674035176aa25ba3febd2916",
+       "title": "Alcohols, Phenols And Ethers 06 : Chemistry Of Carbene || (No DPP)",
+       "date": "2024-11-22",
+       "durationMin": 128,
+       "isCompleted": false
+      }
+     ]
+    },
+    {
+     "topicId": "68951e128b712dbb8766d12e",
+     "name": "Ch- 07 : Amines",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "674187d0fcd8e403bbd86a57",
+       "title": "Amines 01 : Hoffmann Bromamide Degradation || Phthalimide Amine Synthesis || (NO DPP) || Rescheduled @11:10 AM",
+       "date": "2024-11-23",
+       "durationMin": 119,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6745618d1e9c6c11d6391348",
+       "title": "Amines 02 : SNNGP || Iodolactonisation || Ei || Nitrene || NO DPP || Extra Lecture || Recorded",
+       "date": "2024-11-26",
+       "durationMin": 128,
+       "isCompleted": false
+      }
+     ]
+    },
+    {
+     "topicId": "68951e128b712dbb8766d12f",
+     "name": "Ch- 08 : Aldehyde, Ketone & Carboxylic Acid",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "674429ee4ee8f1c2587557c8",
+       "title": "Aldehyde, Ketone & Carboxylic Acid 01 : Physical Properties || Heating Effect",
+       "date": "2024-11-25",
+       "durationMin": 128,
+       "isCompleted": false
+      },
+      {
+       "pwId": "67457b48c9312c60cb19d842",
+       "title": "Aldehyde, Ketone & Carboxylic Acid 02 : Nucleophilic Addition Reaction",
+       "date": "2024-11-26",
+       "durationMin": 128,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6746cd0e6c7c4b6017875a4d",
+       "title": "Aldehyde, Ketone & Carboxylic Acid 03 : Aldol Reaction || Reschedule @10:45 AM",
+       "date": "2024-11-27",
+       "durationMin": 142,
+       "isCompleted": false
+      },
+      {
+       "pwId": "67481e22d9925a3d8b8486d6",
+       "title": "Aldehyde, Ketone & Carboxylic Acid 04 : Aldol & Haloform Reaction",
+       "date": "2024-11-28",
+       "durationMin": 124,
+       "isCompleted": false
+      },
+      {
+       "pwId": "67496edc4d6527efe8524cae",
+       "title": "Aldehyde, Ketone & Carboxylic Acid 05 : Cannizzaro Reaction || Acidic Medium Reactions || Reschedule @11:10 AM",
+       "date": "2024-11-29",
+       "durationMin": 114,
+       "isCompleted": false
+      },
+      {
+       "pwId": "674ac3fb518ddd6b23b7b64f",
+       "title": "Aldehyde, Ketone & Carboxylic Acid 06 :  Esterification || Carbohydrates-1 || Reschedule @11:15 AM",
+       "date": "2024-11-30",
+       "durationMin": 125,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6750024f0a2adfc669e81777",
+       "title": "Aldehyde, Ketone & Carboxylic Acid 07 : Soft Hard Acid Base || (No DPP) || Rescheduled @11:15 AM",
+       "date": "2024-12-04",
+       "durationMin": 93,
+       "isCompleted": false
+      },
+      {
+       "pwId": "67c68195865e78017d7fd9f3",
+       "title": "Aldehyde, Ketone & Carboxylic Acid 08 : Extra Reactions || NO DPP || Extra Lecture || Recorded",
+       "date": "2025-03-04",
+       "durationMin": 65,
+       "isCompleted": false
+      }
+     ]
+    },
+    {
+     "topicId": "68951e128b712dbb8766d130",
+     "name": "Ch- 09 : Biomolecules",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "674d6be1823108933448a613",
+       "title": "Prayas bio",
+       "date": "2024-12-02",
+       "durationMin": 140,
+       "isCompleted": false
+      },
+      {
+       "pwId": "674eb47aeeb6cb552fd030a9",
+       "title": "Biomolecules 02 : Amino Acid",
+       "date": "2024-12-03",
+       "durationMin": 124,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6751b2fa638a59e971ab77ce",
+       "title": "Biomolecules 03 : POC of Biomolecules || Purification of O.C. || NO DPP || Extra Lecture || Recorded",
+       "date": "2024-12-06",
+       "durationMin": 146,
+       "isCompleted": false
+      },
+      {
+       "pwId": "67532b905511e67b81876bc7",
+       "title": "Biomolecules 04 : Quantitative and Qualitative Analysis || NO DPP || Extra Lecture || Recorded",
+       "date": "2024-12-07",
+       "durationMin": 81,
+       "isCompleted": false
+      }
+     ]
+    },
+    {
+     "topicId": "68951e128b712dbb8766d131",
+     "name": "Ch- 10 : Chemistry in Everyday Life",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "6754ee14d380bac9be5fb4be",
+       "title": "Chemistry in Everyday Life 01 : Chemistry in Everyday Life || NO DPP || Extra Lecture || Recorded",
+       "date": "2024-12-08",
+       "durationMin": 98,
+       "isCompleted": false
+      }
+     ]
+    },
+    {
+     "topicId": "68951e128b712dbb8766d132",
+     "name": "Ch- 11 : Polymer",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "675584fd6d0aada38896337d",
+       "title": "Polymer 01 : Polymer || NO DPP || Extra Lecture || Recorded",
+       "date": "2024-12-09",
+       "durationMin": 68,
+       "isCompleted": false
+      }
+     ]
+    },
+    {
+     "topicId": "68951e128b712dbb8766d133",
+     "name": "Ch- 12 : Environmental  Chemistry",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "67599f83e26529b3aa151d90",
+       "title": "Environmental Chemistry 01 : Environmental Chemistry || NO DPP || Extra Lecture || Recorded",
+       "date": "2024-12-12",
+       "durationMin": 121,
+       "isCompleted": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "key": "Maths (Sachin Jakhar Sir)",
+   "batchSlug": "jee-coaching-plus-2026-663976",
+   "subjectSlug": "maths-by-sachin-jakhar-sir-767518",
+   "source": "Physics Wallah API",
+   "subjectGroup": "maths",
+   "playlistUrl": "https://youtube.com/playlist?list=PLxyGaR3hEy3hlHeokj5am7gON43w-NVOT",
+   "fullyComplete": false,
+   "lectureTotal": 174,
+   "lectureDone": 44,
+   "chapters": [
+    {
+     "topicId": "689518e08b712dbb8766cc41",
+     "name": "Interaction Session By Sachin Sir",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "6824880f5ef3456b17cf00e1",
+       "title": "Interaction Session By Sachin Sir || Only Video",
+       "date": "2025-05-14",
+       "durationMin": 40,
+       "isCompleted": false
+      }
+     ]
+    },
+    {
+     "topicId": "689518e08b712dbb8766cc23",
+     "name": "Ch -01 : Basic Maths",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "665d93b95c336100180ea051",
+       "title": "Basic Maths 01 : General Talks For Droppers || Basic Points Of Mathematics",
+       "date": "2024-06-03",
+       "durationMin": 124,
+       "isCompleted": true
+      },
+      {
+       "pwId": "665eeca141b84f00188d5613",
+       "title": "Basic Maths 02 : Identities || Basic Rule Of Inequality",
+       "date": "2024-06-04",
+       "durationMin": 120,
+       "isCompleted": true
+      },
+      {
+       "pwId": "66603fb50948c800123e10a9",
+       "title": "Basic Maths 03 : Number System || Root Inside Root || Basic Rules Of Inequality",
+       "date": "2024-06-05",
+       "durationMin": 127,
+       "isCompleted": true
+      },
+      {
+       "pwId": "666196afedce880012c7a9fa",
+       "title": "Basic Maths 04 : Root Inside Root || Basic Rules Of Inequality || Wavy Curve Method || (No DPP) ||  Classnotes and Download Option Will Be Available Soon",
+       "date": "2024-06-06",
+       "durationMin": 144,
+       "isCompleted": true
+      },
+      {
+       "pwId": "6662e4cb123dcd00184703c9",
+       "title": "Basic Maths 05 : Wavy Curve Method",
+       "date": "2024-06-07",
+       "durationMin": 132,
+       "isCompleted": true
+      },
+      {
+       "pwId": "666437471f597600184ce8da",
+       "title": "Basic Maths 06 : Solving Irrational Equations || Solving Irrational  Inequalities",
+       "date": "2024-06-08",
+       "durationMin": 137,
+       "isCompleted": true
+      },
+      {
+       "pwId": "6666d9a887df59001848cbd1",
+       "title": "Basic Maths 07 : Solving Irrational Inequalities ||  Modulus Function",
+       "date": "2024-06-10",
+       "durationMin": 127,
+       "isCompleted": true
+      },
+      {
+       "pwId": "66682c47fe670300189d2f14",
+       "title": "Basic Maths 08 : Modulus Equations & Inequality || Domain, Range & Graph of Modulus || Logarithm || Question Practice",
+       "date": "2024-06-11",
+       "durationMin": 133,
+       "isCompleted": true
+      },
+      {
+       "pwId": "6669821e4c0bd2001817abcb",
+       "title": "Basic Maths 09 : Logarithm (Log) || Properties of Log",
+       "date": "2024-06-12",
+       "durationMin": 148,
+       "isCompleted": true
+      },
+      {
+       "pwId": "666ada7df53c8e00197e7ca4",
+       "title": "Basic Maths 10 :  Properties of Log ||  Log Equations And Inequalities || Rescheduled @01:30 PM ||  Classnotes and Download Option Will Be Available Soon",
+       "date": "2024-06-13",
+       "durationMin": 161,
+       "isCompleted": true
+      },
+      {
+       "pwId": "666c28417dd9ee00189cddfa",
+       "title": "Basic Maths 11 : Log Inequalities || Exponential Function",
+       "date": "2024-06-14",
+       "durationMin": 161,
+       "isCompleted": true
+      },
+      {
+       "pwId": "666d77f4a4b65b0018b84014",
+       "title": "Basic Maths 12 : Ratios",
+       "date": "2024-06-15",
+       "durationMin": 156,
+       "isCompleted": true
+      }
+     ]
+    },
+    {
+     "topicId": "689518e08b712dbb8766cc24",
+     "name": "Ch -02 : Quadratic Equations",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "66716c65a1407400182d360c",
+       "title": "Quadratic Equations 01 : Identities || Quadratic Equation ||  ( No DPP )",
+       "date": "2024-06-18",
+       "durationMin": 142,
+       "isCompleted": true
+      },
+      {
+       "pwId": "6672b5c36641f00018e34e53",
+       "title": "Quadratic Equations 02 :  Questions",
+       "date": "2024-06-19",
+       "durationMin": 131,
+       "isCompleted": true
+      },
+      {
+       "pwId": "66740f3a71362f00180c633c",
+       "title": "Quadratic Equations 03 : Nature Of Roots || Graph Of Quadratic || Range Of Quadratic",
+       "date": "2024-06-20",
+       "durationMin": 145,
+       "isCompleted": true
+      },
+      {
+       "pwId": "667551a112b489001261a5e2",
+       "title": "Quadratic Equations 04 : Graph of Quadratic || Range of Quadratic || Common Root Condition",
+       "date": "2024-06-21",
+       "durationMin": 104,
+       "isCompleted": true
+      },
+      {
+       "pwId": "6676b2d0a6fb700012506980",
+       "title": "Quadratic Equations 05 : Range of Quadratic || Common Root Condition || Range of Rational Function",
+       "date": "2024-06-22",
+       "durationMin": 150,
+       "isCompleted": true
+      },
+      {
+       "pwId": "66795a730307a40018ae828d",
+       "title": "Quadratic Equations 06 : Common Root Condition || Range of Rational Function || Reschedule @1:30 PM",
+       "date": "2024-06-24",
+       "durationMin": 152,
+       "isCompleted": true
+      },
+      {
+       "pwId": "667aa513752d360018e9683e",
+       "title": "Quadratic Equations 07 : Location Of Roots || Theory Of Higher Degree Equations",
+       "date": "2024-06-25",
+       "durationMin": 124,
+       "isCompleted": true
+      },
+      {
+       "pwId": "667c046ced6b900018c4981c",
+       "title": "Quadratic Equations 08 : Location Of Roots",
+       "date": "2024-06-26",
+       "durationMin": 182,
+       "isCompleted": true
+      }
+     ]
+    },
+    {
+     "topicId": "689518e08b712dbb8766cc25",
+     "name": "Ch -03 : Sequence & Series",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "667d4b905fecff001803392e",
+       "title": "Sequence & Series 01 : Questions on Equation Reducible to Quadratic || Arithmetic Progression || NO DPP",
+       "date": "2024-06-27",
+       "durationMin": 148,
+       "isCompleted": true
+      },
+      {
+       "pwId": "667e991f0c466d00183fa11e",
+       "title": "Sequence & Series 02 : Properties of AP || Common Terms || Geometric Progression (G.P.)",
+       "date": "2024-06-28",
+       "durationMin": 139,
+       "isCompleted": true
+      },
+      {
+       "pwId": "667fe7f7d8f3f40018e31319",
+       "title": "Sequence & Series 03 : Common Terms || Geometric Progression (G.P.) || Properties of G.P.",
+       "date": "2024-06-29",
+       "durationMin": 127,
+       "isCompleted": true
+      },
+      {
+       "pwId": "66828535f50ab5001857836e",
+       "title": "Sequence & Series 04 : Properties of G.P || Harmonic Progression || (Class Notes & Download option will be provided soon)",
+       "date": "2024-07-01",
+       "durationMin": 106,
+       "isCompleted": true
+      },
+      {
+       "pwId": "668539f811987e001815364c",
+       "title": "Sequence & Series 05 : Harmonic Progression || Means: AM, GM & HM || Reschedule @1:40 PM",
+       "date": "2024-07-03",
+       "durationMin": 151,
+       "isCompleted": true
+      },
+      {
+       "pwId": "668681398efa0c0018227c5c",
+       "title": "Sequence & Series 06 : Arithmetic Geometric Progression (AGP) || Properties of Sigma",
+       "date": "2024-07-04",
+       "durationMin": 123,
+       "isCompleted": true
+      },
+      {
+       "pwId": "6687dd9e74cdb00018b1d1c6",
+       "title": "Sequence & Series 07 : Arithmetic Geometric Progression (AGP) || Miscellaneous Sequences || Class Notes & Download Option will be provided soon",
+       "date": "2024-07-05",
+       "durationMin": 162,
+       "isCompleted": true
+      },
+      {
+       "pwId": "668fcc164f50760018a96f24",
+       "title": "Sequence & Series 08 : Question Practice || No DPP",
+       "date": "2024-07-11",
+       "durationMin": 174,
+       "isCompleted": true
+      },
+      {
+       "pwId": "66911c322965a30018919e56",
+       "title": "Sequence & Series 09 : Miscellaneous Sequences",
+       "date": "2024-07-12",
+       "durationMin": 164,
+       "isCompleted": true
+      }
+     ]
+    },
+    {
+     "topicId": "689518e08b712dbb8766cc26",
+     "name": "Ch -04 : Trigonometric Functions",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "66926512264f8500186d8b12",
+       "title": "Trigonometric Functions 01 : Log & Exponential Series || Basic Of  Trigonometry ||  (No DPP)",
+       "date": "2024-07-13",
+       "durationMin": 152,
+       "isCompleted": true
+      },
+      {
+       "pwId": "6693ae01e61b7d0018376021",
+       "title": "Trigonometric Functions 02 : Basic Of Trigonometry || Compound Angle || Questions || No DPP || Extra Lecture || Reschedule @ 1:15 PM",
+       "date": "2024-07-14",
+       "durationMin": 140,
+       "isCompleted": true
+      },
+      {
+       "pwId": "66950308b62955001890e0d6",
+       "title": "Trigonometric Functions 03 : Compound Angle Formula || Transformation Formula || (No DPP)",
+       "date": "2024-07-15",
+       "durationMin": 122,
+       "isCompleted": true
+      },
+      {
+       "pwId": "6697b122b8b63b0018447064",
+       "title": "Trigonometric Functions 04 : Transformation Formula || Formula's For Multiple & Sub- Multiple Angles",
+       "date": "2024-07-17",
+       "durationMin": 158,
+       "isCompleted": true
+      },
+      {
+       "pwId": "6698f78bcba41f0018095699",
+       "title": "Trigonometric Functions 05 : Transformation Formula",
+       "date": "2024-07-18",
+       "durationMin": 129,
+       "isCompleted": true
+      },
+      {
+       "pwId": "669a42db6236650018ad370f",
+       "title": "Trigonometric Functions 06 : Important Values",
+       "date": "2024-07-19",
+       "durationMin": 112,
+       "isCompleted": true
+      },
+      {
+       "pwId": "669b9c75dabbeb00188e28b3",
+       "title": "Trigonometric Functions 07 : Trigonometric Series || Reschedule @01:45 PM",
+       "date": "2024-07-20",
+       "durationMin": 133,
+       "isCompleted": true
+      },
+      {
+       "pwId": "669e47ef27ed0500185dc95d",
+       "title": "Trigonometric Functions 08 : Graph Of Trigonometric Functions || Range Of Trigonometric Functions || Rescheduled @01:45 PM",
+       "date": "2024-07-22",
+       "durationMin": 151,
+       "isCompleted": true
+      }
+     ]
+    },
+    {
+     "topicId": "689518e08b712dbb8766cc27",
+     "name": "Ch -05 : Trigonometric Equations",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "669f99ab0a499d0018d62380",
+       "title": "Trigonometric Equations 01 : Range Of Trigonometric Functions || Basics Of Trigonometric Equations || (No DPP)",
+       "date": "2024-07-23",
+       "durationMin": 159,
+       "isCompleted": true
+      },
+      {
+       "pwId": "66a0e6cdd9c9b500187a6814",
+       "title": "Trigonometric Equations 02 : Different Types Of Trigonometric Equations || Question Practice",
+       "date": "2024-07-24",
+       "durationMin": 149,
+       "isCompleted": true
+      },
+      {
+       "pwId": "66a22fe9eeeba00018b46031",
+       "title": "Trigonometric Equations 03 : Different Types Of Trigonometric Equations || Question Practice",
+       "date": "2024-07-25",
+       "durationMin": 124,
+       "isCompleted": true
+      },
+      {
+       "pwId": "66a3626ee2c1870018f49273",
+       "title": "Trigonometric Equations 04 : Question Practice",
+       "date": "2024-07-26",
+       "durationMin": 130,
+       "isCompleted": true
+      },
+      {
+       "pwId": "66a4cae3b67f33001843f454",
+       "title": "Trigonometric Equations 05 : Solving Trigonometric Inequality || Question Practice || Reschedule @01:45 PM",
+       "date": "2024-07-27",
+       "durationMin": 95,
+       "isCompleted": true
+      }
+     ]
+    },
+    {
+     "topicId": "689518e08b712dbb8766cc28",
+     "name": "Ch -06 : Determinants",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "66a7825d47db6a00183c7b09",
+       "title": "Determinants 01 : Introduction || (No DPP)",
+       "date": "2024-07-29",
+       "durationMin": 157,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66a8d247ba453b001891a863",
+       "title": "Determinants 02 : Properties Of Determinants || Question Practice",
+       "date": "2024-07-30",
+       "durationMin": 151,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66aa1a8dd1cedd1d810da4fd",
+       "title": "Determinants 03 : Properties of Determinants || Question Practice (Part-02)",
+       "date": "2024-07-31",
+       "durationMin": 133,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66ab74f642f180978b48f198",
+       "title": "Determinants 04 : Properties of Determinants",
+       "date": "2024-08-01",
+       "durationMin": 158,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66accdfa0fbd9b0b64d595e5",
+       "title": "Determinants 05 : Summation & Differentiation || Determinant Multiplication",
+       "date": "2024-08-02",
+       "durationMin": 189,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66adf06942f180978b4e3970",
+       "title": "Determinants 06 : Summation & Differentiation || Reschedule @11:30 AM",
+       "date": "2024-08-03",
+       "durationMin": 131,
+       "isCompleted": false
+      }
+     ]
+    },
+    {
+     "topicId": "689518e08b712dbb8766cc29",
+     "name": "Ch -07 : Matrices",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "66b0be9842f180978b52f0a6",
+       "title": "Matrices 01 : System Of Linear Equation || Introduction To Matrices || (No DPP)",
+       "date": "2024-08-05",
+       "durationMin": 166,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66b35b3ebb1e20a080710b59",
+       "title": "Matrices 02 :  Algebra of Matrices || Matrix Multiplication & Its Properties || Higher Powers of Square Matrix || (No DPP)",
+       "date": "2024-08-07",
+       "durationMin": 148,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66b4bc8b8c5d2617b009b4ba",
+       "title": "Matrices 03 : Higher Powers Of Square Matrix || Trace & Determinant Value || Transpose",
+       "date": "2024-08-08",
+       "durationMin": 195,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66b62707f96a31968029e1a3",
+       "title": "Matrices 04 : Higher Powers Of Square Matrix",
+       "date": "2024-08-09",
+       "durationMin": 161,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66b75094f96a3196802bd274",
+       "title": "Matrices 05 :  Inverse Of Matrix || Characteristic Equations || Orthogonal Matrix",
+       "date": "2024-08-10",
+       "durationMin": 157,
+       "isCompleted": false
+      }
+     ]
+    },
+    {
+     "topicId": "689518e08b712dbb8766cc2a",
+     "name": "Ch -08 : Sets",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "66b9fc06668c817b3d2f787b",
+       "title": "Sets 01 : Characteristics Equations || Matrix Method || (No DPP)",
+       "date": "2024-08-12",
+       "durationMin": 174,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66bb440fc79b9ab92b988ae2",
+       "title": "Sets 02 : Types Of Sets || Subset & Power Set || Operations On Sets|| (No DPP) || Rescheduled @01:45 PM",
+       "date": "2024-08-13",
+       "durationMin": 137,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66bc910c797b46b91058227a",
+       "title": "Sets 03 : Venn Diagram || Story Problems",
+       "date": "2024-08-14",
+       "durationMin": 133,
+       "isCompleted": false
+      }
+     ]
+    },
+    {
+     "topicId": "689518e08b712dbb8766cc2b",
+     "name": "Ch -09 : Relations & Functions",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "66bcf191c16f650018307391",
+       "title": "Relations & Functions 01 : Questions On Set Theory || Cartesian Product || (No DPP)",
+       "date": "2024-08-16",
+       "durationMin": 172,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66bce0333c0b70001863c771",
+       "title": "Relations & Functions 02 : Questions On Types Of Relations || Recorded",
+       "date": "2024-08-17",
+       "durationMin": 154,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66c477534509d94fa6c8fc08",
+       "title": "Relations & Functions 03 : Questions On Types Of Relations || Introduction To Functions || Question Practice |",
+       "date": "2024-08-20",
+       "durationMin": 135,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66c5d0721b859f530ee77dcd",
+       "title": "Relations & Functions 04 : Finding Domain of Functions || Different Types of Functions || Question Practice",
+       "date": "2024-08-21",
+       "durationMin": 141,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66c7249f8a65bca07e9d05f4",
+       "title": "Relations & Functions 05 : Different Types Of Functions || Greatest Integer Function || Fractional Part Function",
+       "date": "2024-08-22",
+       "durationMin": 149,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66c892de6a66d5769e2c5fc6",
+       "title": "Relations & Functions 06 : Properties Of FPF || Questions Involving GIF & FPF || Rescheduled @04:00 PM",
+       "date": "2024-08-23",
+       "durationMin": 125,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66c9cc508ce9227c1d8cbe82",
+       "title": "Relations & Functions 07 : Method Of Finding Range || Classification Of Functions",
+       "date": "2024-08-24",
+       "durationMin": 180,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66cc615bb6c0c14b7a77978e",
+       "title": "Relations & Functions 08 : One-One & Many-One Function || Onto & Into Functions || Reschedule @01:30 PM",
+       "date": "2024-08-26",
+       "durationMin": 133,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66cdbe3ae311bee8b2209adf",
+       "title": "Relations & Functions 09 : Composite function || Inverse of Function  || Rescheduled @01:30 PM",
+       "date": "2024-08-27",
+       "durationMin": 161,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66cf05c53bcc504fe1b8ac24",
+       "title": "Relations & Functions 10 : Properties Of Inverse Of Function || Even & Odd Functions || Periodic Functions || Reschedule @01:30 PM",
+       "date": "2024-08-28",
+       "durationMin": 131,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66d064ed3bcc504fe1bb5ccb",
+       "title": "Relations & Functions 11 : Even & Odd Functions || Periodic Functions || Functional Equation ||  Reschedule @01:30 PM",
+       "date": "2024-08-29",
+       "durationMin": 166,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66d1bbdb7379bba15fbe734e",
+       "title": "Relations & Functions 12 : Functional Equation || Graphical Transformation || Reschedule @01:30 PM",
+       "date": "2024-08-30",
+       "durationMin": 194,
+       "isCompleted": false
+      }
+     ]
+    },
+    {
+     "topicId": "689518e08b712dbb8766cc2c",
+     "name": "Ch -10 : Inverse Trigonometric Functions",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "66d3d39832d25c00187f0b3a",
+       "title": "Inverse Trigonometric Functions 01 : Some Important Graphs || Introduction To ITF || Reschedule @01:30 PM || (No DPP)",
+       "date": "2024-08-31",
+       "durationMin": 185,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66d5a805d58ea79af9ef7c53",
+       "title": "Inverse Trigonometric Functions 02 :  Properties Of ITF || Question Practice || Reschedule @01:30PM ||  (No DPP)",
+       "date": "2024-09-02",
+       "durationMin": 175,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66d6faeb6e3cc2f5b4ebc0f5",
+       "title": "Inverse Trigonometric Functions 03 : Properties OF ITF || Question Practice (Part-02) || Reschedule @01:30PM",
+       "date": "2024-09-03",
+       "durationMin": 169,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66d849296e3cc2f5b4ee407f",
+       "title": "Inverse Trigonometric Functions 04 :  Properties Of ITF || ITF Equations || ITF Series",
+       "date": "2024-09-04",
+       "durationMin": 151,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66d98ebc7dfbdbcbf575e036",
+       "title": "Inverse Trigonometric Functions 05 :  ITF Equations || ITF Series || Question Practice",
+       "date": "2024-09-05",
+       "durationMin": 133,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66dadb635d916b68113cdd8b",
+       "title": "Inverse Trigonometric Functions 06 : ITF Series || Defining With Feel Of Substitution || Some Important Graphs",
+       "date": "2024-09-06",
+       "durationMin": 154,
+       "isCompleted": false
+      }
+     ]
+    },
+    {
+     "topicId": "689518e08b712dbb8766cc2d",
+     "name": "Ch -11 : Limit, Continuity & Differentiability",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "66ded1c8425f64fe94695425",
+       "title": "Limit, Continuity & Differentiability 01 :  Introduction To Limits || Indeterminate Form || (No DPP) || Rescheduled @01:45 PM",
+       "date": "2024-09-09",
+       "durationMin": 149,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66e01da8425f64fe946b9b4b",
+       "title": "Limit, Continuity & Differentiability 02 : Algebra Of Limits || Use Of Expansion || Question Practice",
+       "date": "2024-09-10",
+       "durationMin": 139,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66e17c0e59488403af1f230c",
+       "title": "Limit, Continuity & Differentiability 03 :  Finding Unknown || Standard Limits || Question Practice",
+       "date": "2024-09-11",
+       "durationMin": 131,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66e2d6e199e13c6b6ef4318f",
+       "title": "Limit, Continuity & Differentiability 04 : Exponential Limits || Sandwich Theorem || Questions Involving GIF, FPF & MOD",
+       "date": "2024-09-12",
+       "durationMin": 154,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66e423ba9f3afd42dd8d0ee5",
+       "title": "Limit, Continuity & Differentiability 05 :  Questions Involving GIF, FPF & MOD || Built In Limit || Continuity || Question Practice",
+       "date": "2024-09-13",
+       "durationMin": 164,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66e5738c1875d505329f300a",
+       "title": "Limit, Continuity & Differentiability 06 : Algebra Of Continuity || Suspicious Points || Important Results",
+       "date": "2024-09-14",
+       "durationMin": 157,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66e96dd2922f40f2cf37ec00",
+       "title": "Limit, Continuity & Differentiability 07 : Intermediate Value Theorem || Important Results || Differentiability || Question Practice",
+       "date": "2024-09-17",
+       "durationMin": 166,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66eac552de8b14e511e2ae52",
+       "title": "Limit, Continuity & Differentiability 08 : Questions On IVT || Important Results",
+       "date": "2024-09-18",
+       "durationMin": 173,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66ec0e02c1f7bf8ce2c335a8",
+       "title": "Limit, Continuity & Differentiability 09 : Results Of Differentiability || Question Practice",
+       "date": "2024-09-19",
+       "durationMin": 144,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66ed5e00c5d42fa032a51acd",
+       "title": "Limit, Continuity & Differentiability 10 : Results Of Differentiability || Rescheduled @01:45 PM",
+       "date": "2024-09-20",
+       "durationMin": 142,
+       "isCompleted": false
+      }
+     ]
+    },
+    {
+     "topicId": "689518e08b712dbb8766cc2e",
+     "name": "Ch -12 : Method Of Differentiation",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "66eeb30ce35aa48e982d9fb2",
+       "title": "Method Of Differentiation 01 : Solving Functional Equation || Basic Formula's For Differentiation || (No DPP)",
+       "date": "2024-09-21",
+       "durationMin": 158,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66f1565566789cd3ffd6641b",
+       "title": "Method Of Differentiation 02 : Solving Functional Equation",
+       "date": "2024-09-23",
+       "durationMin": 149,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66f2a9aecd4099795ff20db3",
+       "title": "Method Of Differentiation 03 : Some Important Results",
+       "date": "2024-09-24",
+       "durationMin": 161,
+       "isCompleted": false
+      }
+     ]
+    },
+    {
+     "topicId": "689518e08b712dbb8766cc2f",
+     "name": "Ch -13 : Application Of Derivatives",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "66f3fa73c18c72c5b2878c7a",
+       "title": "Application Of Derivatives 01 : Higher Order Derivatives || Tangent & Normals || (No DPP)",
+       "date": "2024-09-25",
+       "durationMin": 150,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66f54ac57e87971843fe3383",
+       "title": "Application Of Derivatives 02 : Tangent & Normals || Angle Between Two Curves  || (No DPP)",
+       "date": "2024-09-26",
+       "durationMin": 155,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66f671ad3dd6f32eb9dcf13b",
+       "title": "Application Of Derivatives 03 :  Angle Between Two Curves || Sub Tangent & Sub Normals || Rate Measure|| Reschedule @11:15 AM",
+       "date": "2024-09-27",
+       "durationMin": 116,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66f7ecd47b640208bb311a58",
+       "title": "Application Of Derivatives 04 : Angle Between Two Curves || Rescheduled @01:45 PM",
+       "date": "2024-09-28",
+       "durationMin": 151,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66fa994676b7c6da6c645572",
+       "title": "Application Of Derivatives 05 : Monotonicity",
+       "date": "2024-09-30",
+       "durationMin": 192,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66fbe369aa94bdfc1f79fd3a",
+       "title": "Application Of Derivatives 06 : Application Of Monotonicity || Secret Differentiation",
+       "date": "2024-10-01",
+       "durationMin": 157,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66fe83f2b2d0189d71331f6a",
+       "title": "Application Of Derivatives 07 : Application Of Monotonicity",
+       "date": "2024-10-03",
+       "durationMin": 149,
+       "isCompleted": false
+      },
+      {
+       "pwId": "66ffaaccbd6bbdea6bbd755f",
+       "title": "Application Of Derivatives 08 : Story Problem || Significance Of Second Order Derivative  || Rescheduled @11:15 AM",
+       "date": "2024-10-04",
+       "durationMin": 115,
+       "isCompleted": false
+      },
+      {
+       "pwId": "67012869264635c18595c6be",
+       "title": "Application Of Derivatives 09 : Point Of Inflection",
+       "date": "2024-10-05",
+       "durationMin": 169,
+       "isCompleted": false
+      },
+      {
+       "pwId": "67172d84eeb848c20f50f788",
+       "title": "Application Of Derivatives 10 : Home work Discussion Video || Extra Lecture || Recorded || (No DPP)",
+       "date": "2024-10-22",
+       "durationMin": 139,
+       "isCompleted": false
+      }
+     ]
+    },
+    {
+     "topicId": "689518e08b712dbb8766cc30",
+     "name": "Ch -14 : Indefinite Integration",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "6703cb81d564d99c12d6e517",
+       "title": "Indefinite Integration 01 : Curve Sketching || Analysis Of Cubic Equation || (No DPP)",
+       "date": "2024-10-07",
+       "durationMin": 156,
+       "isCompleted": false
+      },
+      {
+       "pwId": "670515bba1a36ae4414aed87",
+       "title": "Indefinite Integration 02 :  Techniques Of Integration || Integration By Substitution || (No DPP)",
+       "date": "2024-10-08",
+       "durationMin": 135,
+       "isCompleted": false
+      },
+      {
+       "pwId": "67066a624633fc73b21b3092",
+       "title": "Indefinite Integration 03 : Integration By- Parts || Ho Na Ho Vo Na Ho Form  || Rescheduled @01:45 PM",
+       "date": "2024-10-09",
+       "durationMin": 148,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6707bcc2df34aad37f36382b",
+       "title": "Indefinite Integration 04 : Integration By- Parts",
+       "date": "2024-10-10",
+       "durationMin": 154,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6708df08259bf372156b5491",
+       "title": "Indefinite Integration 05 : Reduction Formula || Different Forms to Integrate || Rescheduled at 11:15 AM",
+       "date": "2024-10-11",
+       "durationMin": 116,
+       "isCompleted": false
+      },
+      {
+       "pwId": "670933c663e5a4144aa15e5e",
+       "title": "Indefinite Integration 06 : Different Forms to Integrate || Question Practice || NO DPP || Recorded || Extra Lecture",
+       "date": "2024-10-12",
+       "durationMin": 106,
+       "isCompleted": false
+      }
+     ]
+    },
+    {
+     "topicId": "689518e08b712dbb8766cc31",
+     "name": "Ch -15 : Definite Integration",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "670d05f813680fff6a916570",
+       "title": "Definite Integration 01 : Different Forms to Integrate || Basics of D.I. || Question Practice || NO DPP",
+       "date": "2024-10-14",
+       "durationMin": 171,
+       "isCompleted": false
+      },
+      {
+       "pwId": "670e5965289b4aecd1053ecf",
+       "title": "Definite Integration 02 : Different Forms to Integrate || (No DPP)",
+       "date": "2024-10-15",
+       "durationMin": 157,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6710ec131cd9dd7d98ab1dc3",
+       "title": "Definite Integration 03 : Properties of DI || Relating Integrals || Question Practice",
+       "date": "2024-10-17",
+       "durationMin": 170,
+       "isCompleted": false
+      },
+      {
+       "pwId": "67121b32102c8739192f95be",
+       "title": "Definite Integration 04 : Definite Integration as Limit of Sum || Question on r/n Form || Question Practice",
+       "date": "2024-10-18",
+       "durationMin": 129,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6713a1348edfa9eb6ea71dbb",
+       "title": "Definite Integration 05 : Question On r/n Form || Finding Function || Estimation Of Integrals",
+       "date": "2024-10-19",
+       "durationMin": 184,
+       "isCompleted": false
+      }
+     ]
+    },
+    {
+     "topicId": "689518e08b712dbb8766cc32",
+     "name": "Ch -16 : Application Of Integrals",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "67213381a30a339b693f0ad0",
+       "title": "Application Of Integrals 01 : Area W.r.to X- Axis And Y- Axis || Area Between Two Curves || Recorded",
+       "date": "2024-10-30",
+       "durationMin": 134,
+       "isCompleted": false
+      },
+      {
+       "pwId": "671e37d1856419db3c53ef46",
+       "title": "Application Of Integrals 02 : Area Bounded By Inequality || Miscellaneous Questions || Extra Lecture || Recorded",
+       "date": "2024-10-30",
+       "durationMin": 157,
+       "isCompleted": false
+      }
+     ]
+    },
+    {
+     "topicId": "689518e08b712dbb8766cc33",
+     "name": "Ch -17 : Differential Equation",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "67163c0c07a79fe20e23288a",
+       "title": "Differential Equation 01 : Order And Degree Of D.E || Formation Of D.E || Question Practice || (No DPP)",
+       "date": "2024-10-21",
+       "durationMin": 161,
+       "isCompleted": false
+      },
+      {
+       "pwId": "67177c212a0a5f77fc653994",
+       "title": "Differential Equation 02 : Reducible To Variable Separable Form || Homogeneous Differential Equation",
+       "date": "2024-10-22",
+       "durationMin": 138,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6718d3d1f10b8bf497b2d6db",
+       "title": "Differential Equation 03 : Reducible To HDE || Linear Differential Equation || Question Practice",
+       "date": "2024-10-23",
+       "durationMin": 165,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6719f896eaa846e4f9fd4591",
+       "title": "Differential Equation 04 : Exact Differential Equation || Use Polar Coordinates",
+       "date": "2024-10-24",
+       "durationMin": 124,
+       "isCompleted": false
+      },
+      {
+       "pwId": "671b7c5874da8bfc52c1df22",
+       "title": "Differential Equation 05 : Isogonal And Orthogonal Curves || Story (Words) Problems|",
+       "date": "2024-10-25",
+       "durationMin": 128,
+       "isCompleted": false
+      }
+     ]
+    },
+    {
+     "topicId": "689518e08b712dbb8766cc34",
+     "name": "Ch -18 : Straight Lines",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "671cc947c330a5e5ac53cfc7",
+       "title": "Straight Lines 01 : D.E. Of Order Two || Slope Of Line || Equation Of Line || Question Practice || (No DPP)",
+       "date": "2024-10-26",
+       "durationMin": 167,
+       "isCompleted": false
+      },
+      {
+       "pwId": "671f6d7a4d3988c8462412a6",
+       "title": "Straight Lines 02 : Information About Triangle || Some Important Results",
+       "date": "2024-10-28",
+       "durationMin": 174,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6720c25039d43ca26119e65a",
+       "title": "Straight Lines 03 : Some Important Results And Theorems || Slope And Equation of Line || Question Practice  || Rescheduled @02:00 PM",
+       "date": "2024-10-29",
+       "durationMin": 158,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6728b1d87d9223aaf8613c41",
+       "title": "Straight Lines 04 : Parametric Form Of Line || Angle Between Two Lines || Rescheduled @02:00 PM",
+       "date": "2024-11-04",
+       "durationMin": 186,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6729fc6d1b07527e760787b6",
+       "title": "Straight Lines 05 :  Distance Between Parallel Lines || Position Of Point w.r.to Line || Image & Foot Perpendicular",
+       "date": "2024-11-05",
+       "durationMin": 186,
+       "isCompleted": false
+      },
+      {
+       "pwId": "672b3ffb885d2b5865ac8caf",
+       "title": "Straight Lines 06 : Angle Bisector || Family Of Straight Line || Question Practice",
+       "date": "2024-11-06",
+       "durationMin": 123,
+       "isCompleted": false
+      },
+      {
+       "pwId": "672f45f21ff9c026fdb0f663",
+       "title": "Straight Lines 07 :  Angle Bisector || Family Of Straight Line || Question Practice",
+       "date": "2024-11-09",
+       "durationMin": 197,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6731e254698026d47cfa7645",
+       "title": "Straight Lines 08 : Shifting Of Origin & Rotation Of Axis || Family Of Straight Line",
+       "date": "2024-11-11",
+       "durationMin": 171,
+       "isCompleted": false
+      }
+     ]
+    },
+    {
+     "topicId": "689518e08b712dbb8766cc35",
+     "name": "Ch -19 : Statistics",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "67210ed7f6834d1ccad7232d",
+       "title": "Statistics 01 : Mean, Median & Mode || Variance & Standard Deviations || NO DPP || Recorded || Extra Lecture",
+       "date": "2024-11-01",
+       "durationMin": 156,
+       "isCompleted": false
+      }
+     ]
+    },
+    {
+     "topicId": "689518e08b712dbb8766cc36",
+     "name": "Ch -20 : Circles",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "6733347c6ad3f5edae5f33b7",
+       "title": "Circles 01 : Concept Of Homogenisation || Locus Problem || No DPP",
+       "date": "2024-11-12",
+       "durationMin": 176,
+       "isCompleted": false
+      },
+      {
+       "pwId": "673485b7f3ced9c41a5263d7",
+       "title": "Circles 02 : Locus Problem || Intercept Made By Circle || Parametric Point || Rescheduled @02:00 PM",
+       "date": "2024-11-13",
+       "durationMin": 143,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6735d614f8311f4e9bf7556e",
+       "title": "Circles 03 :  Intercept Made By Circle || Parametric Point || Position Of Point w.r.to Circle || (No DPP)",
+       "date": "2024-11-14",
+       "durationMin": 170,
+       "isCompleted": false
+      },
+      {
+       "pwId": "67389077246a6f5d9fc8eb6f",
+       "title": "Circles 04 : Line And Circle || Tangent And Normal || Director Circle || Rescheduled @02:00 PM",
+       "date": "2024-11-16",
+       "durationMin": 238,
+       "isCompleted": false
+      },
+      {
+       "pwId": "673b12b94e37ab10ca7f4c9d",
+       "title": "Circles 05 : Story Of Two Circle || Common Tangents || Orthogonal Circle",
+       "date": "2024-11-18",
+       "durationMin": 130,
+       "isCompleted": false
+      },
+      {
+       "pwId": "673c65feb4c2b6a14b72e35b",
+       "title": "Circles 06 : Orthogonal Circles || Family Of Circles || Question Practice",
+       "date": "2024-11-19",
+       "durationMin": 138,
+       "isCompleted": false
+      },
+      {
+       "pwId": "674455be4ee8f1c25875aae6",
+       "title": "Circles 07 : Radical Axis & Radical Center || Pole & Polar || (No DPP)",
+       "date": "2024-11-25",
+       "durationMin": 167,
+       "isCompleted": false
+      }
+     ]
+    },
+    {
+     "topicId": "689518e08b712dbb8766cc37",
+     "name": "Ch -21 : Solution Of Triangle",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "673d88ceaeda2c225202c8fc",
+       "title": "Solution Of Triangle 01 : Sine Rule || Cosine Rule || Projection Formula || (No DPP) || Recorded",
+       "date": "2024-11-20",
+       "durationMin": 93,
+       "isCompleted": false
+      },
+      {
+       "pwId": "673e1eb1187d01d572a23769",
+       "title": "Solution Of Triangle 02 : Different Centres Of Triangle || Length Of Median & Angle Bisectors || Recorded",
+       "date": "2024-11-21",
+       "durationMin": 180,
+       "isCompleted": false
+      },
+      {
+       "pwId": "673f2d118e64efc05378cfcb",
+       "title": "Solution Of Triangle 03 : COT \"m-n\" Theorem || Question Practice || Recorded",
+       "date": "2024-11-22",
+       "durationMin": 99,
+       "isCompleted": false
+      }
+     ]
+    },
+    {
+     "topicId": "689518e08b712dbb8766cc38",
+     "name": "Ch -22 : Parabola",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "6745a4ab7dd3e4d09052265e",
+       "title": "Parabola 01 : Introduction To Conic ||  Standard Parabola || (No DPP) || Reschedule @12:45 PM",
+       "date": "2024-11-26",
+       "durationMin": 200,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6746f7394082a8a882434fa5",
+       "title": "Parabola 02 : Focal Chord & Properties Of Focal Chord || Line & Parabola",
+       "date": "2024-11-27",
+       "durationMin": 213,
+       "isCompleted": false
+      },
+      {
+       "pwId": "67484296e6cfa0f468d7a395",
+       "title": "Parabola 03 : Equation Of Tangent And Normal || Three Important Equations  || Rescheduled @12:40 PM",
+       "date": "2024-11-28",
+       "durationMin": 184,
+       "isCompleted": false
+      },
+      {
+       "pwId": "674ae4ca89219d0ca74ceaa2",
+       "title": "Parabola 04 :  Important Results Related To Normal || Co-Normal Points || Rescheduled @01:40 PM",
+       "date": "2024-11-30",
+       "durationMin": 121,
+       "isCompleted": false
+      },
+      {
+       "pwId": "674d866df1b9db47cd3660fc",
+       "title": "Parabola 05 : Three Important Terms || Properties of Parabola || Rescheduled @12:45 PM",
+       "date": "2024-12-02",
+       "durationMin": 170,
+       "isCompleted": false
+      }
+     ]
+    },
+    {
+     "topicId": "689518e08b712dbb8766cc39",
+     "name": "Ch -23 : Ellipse",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "674edb29b0ccba70fae5bf00",
+       "title": "Ellipse 01 : Introduction To Ellipse || Standard Ellipse || (No DPP) || Rescheduled @ 12:45 PM",
+       "date": "2024-12-03",
+       "durationMin": 183,
+       "isCompleted": false
+      },
+      {
+       "pwId": "67502a8a0bf193b766215a72",
+       "title": "Ellipse 02 : Eccentric Angle & Parametric Point || Line & Ellipse || Rescheduled @01:00 PM",
+       "date": "2024-12-04",
+       "durationMin": 160,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6752d79c2a0ea2eef5b6f761",
+       "title": "Ellipse 03 : Equation of Normal || Co-Normal Pts. || Question Practice",
+       "date": "2024-12-06",
+       "durationMin": 173,
+       "isCompleted": false
+      },
+      {
+       "pwId": "67531cdddc01f4584504447b",
+       "title": "Ellipse 04 : Diameter || Properties of Ellipse || Question Practice",
+       "date": "2024-12-07",
+       "durationMin": 110,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6756ca864f01680e438627bd",
+       "title": "Ellipse 05 : Properties of Ellipse ||  Question Practice  || Rescheduled @01:15 PM",
+       "date": "2024-12-09",
+       "durationMin": 181,
+       "isCompleted": false
+      }
+     ]
+    },
+    {
+     "topicId": "689518e08b712dbb8766cc3a",
+     "name": "Ch -24 : Hyperbola",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "67580b59033cb97b85680226",
+       "title": "Hyperbola 01 : Standard Hyperbola || Question Practice || Rescheduled @01:00 PM",
+       "date": "2024-12-10",
+       "durationMin": 125,
+       "isCompleted": false
+      },
+      {
+       "pwId": "67596cc49c76e52c95aed7ae",
+       "title": "Hyperbola 02 : Eccentric Angle and Parametric Point || Line and Hyperbola || Tangent and Normal || Rescheduled @01:00 PM",
+       "date": "2024-12-11",
+       "durationMin": 193,
+       "isCompleted": false
+      },
+      {
+       "pwId": "675abc1ab7f884932d222c5b",
+       "title": "Hyperbola 03 : Asymptotes & Its Properties || Rectangular Hyperbola || Rescheduled @01:00 PM",
+       "date": "2024-12-12",
+       "durationMin": 183,
+       "isCompleted": false
+      },
+      {
+       "pwId": "675c112789128f787c35a6e0",
+       "title": "Hyperbola 04 :  Properties Of Hyperbola || Question Practice || Rescheduled @01:00 PM",
+       "date": "2024-12-13",
+       "durationMin": 199,
+       "isCompleted": false
+      }
+     ]
+    },
+    {
+     "topicId": "689518e08b712dbb8766cc3b",
+     "name": "Ch-25 : Vector Algebra",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "675d69046629794b4d6899a0",
+       "title": "Vector Algebra 01 : Types of Vectors || Section Formula & Law of Vector Addn || Dot Product || Question Practice || NO DPP || Rescheduled @ 01:00 PM",
+       "date": "2024-12-14",
+       "durationMin": 225,
+       "isCompleted": false
+      },
+      {
+       "pwId": "67600b70c83556ca3f74b724",
+       "title": "Vector Algebra 02 : Cross Product || Properties Of Cross Product || Important Area   || Rescheduled @01:00 PM",
+       "date": "2024-12-16",
+       "durationMin": 211,
+       "isCompleted": false
+      },
+      {
+       "pwId": "67615bf9b3ea0fa349c81540",
+       "title": "Vector Algebra 03 : Scalar Triple Product || Vector Triple Product || Rescheduled @01:00 PM",
+       "date": "2024-12-17",
+       "durationMin": 212,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6762a70572e8111db98c4ec4",
+       "title": "Vector Algebra 04 : Linearly Dependent & Linearly Independent || Collinearity & Coplanarity || Rescheduled @01:00 PM",
+       "date": "2024-12-18",
+       "durationMin": 191,
+       "isCompleted": false
+      }
+     ]
+    },
+    {
+     "topicId": "689518e08b712dbb8766cc3c",
+     "name": "Ch-26 : Three Dimensional Geometry",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "6763fb702f256f9a1bbd5ae8",
+       "title": "Three Dimensional Geometry 01 : Solving Vector Equation || Introduction to 3D || Direction Cosines & Direction Ratios || Question Practice|| NO DPP || Rescheduled @ 01:00 PM",
+       "date": "2024-12-19",
+       "durationMin": 204,
+       "isCompleted": false
+      },
+      {
+       "pwId": "67692fb584a8d74424972dd4",
+       "title": "Three Dimensional Geometry 02 : Equation of Line || Angle Bisector || Point and Line || Question Practice || Reschedule @ 01:00 PM",
+       "date": "2024-12-20",
+       "durationMin": 209,
+       "isCompleted": false
+      },
+      {
+       "pwId": "67692b7d84a8d74424972a3c",
+       "title": "Three Dimensional Geometry 03 : Equation of Plane || Point & Plane || Question Practice || Reschedule @ 01:15 PM",
+       "date": "2024-12-21",
+       "durationMin": 212,
+       "isCompleted": false
+      },
+      {
+       "pwId": "67673ea87625aff47117e134",
+       "title": "Three Dimensional Geometry 04 : Angle Bisector Planes || Family of Planes || Question Practice || NO DPP || Extra Lecture || Recorded",
+       "date": "2024-12-22",
+       "durationMin": 89,
+       "isCompleted": false
+      },
+      {
+       "pwId": "67693efc79e34c598f165fe7",
+       "title": "Three Dimensional Geometry 05 : Locus Problems || 3D Figures || Rescheduled @01:00 PM",
+       "date": "2024-12-23",
+       "durationMin": 193,
+       "isCompleted": false
+      }
+     ]
+    },
+    {
+     "topicId": "689518e08b712dbb8766cc3d",
+     "name": "Ch - 27 : Binomial Theorem",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "676a9310000f2d7aab000e48",
+       "title": "Binomial Theorem 01 : Binomial Expansion || General Term || Question Practice || NO DPP || Rescheduled @ 01:00 PM",
+       "date": "2024-12-24",
+       "durationMin": 204,
+       "isCompleted": true
+      },
+      {
+       "pwId": "676bd7bd2e14668e1fc2de67",
+       "title": "Finding Coefficients || Properties Of Binomial Coefficients || Question Practice || (No DPP) || Extra || Rescheduled @11:30 AM",
+       "date": "2024-12-25",
+       "durationMin": 240,
+       "isCompleted": true
+      },
+      {
+       "pwId": "676d38a2cd0c826c3239c210",
+       "title": "Binomial Theorem 03 : Binomial Series || Multinomial Theorem || Rescheduled @01:00 PM",
+       "date": "2024-12-26",
+       "durationMin": 216,
+       "isCompleted": false
+      }
+     ]
+    },
+    {
+     "topicId": "689518e08b712dbb8766cc3e",
+     "name": "Ch - 28 : Permutation & Combination",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "676fdb3b8e061a76e0aaf2b4",
+       "title": "Permutation & Combination 01 : Addition & Multiplication Principle || Formation of Numbers & Words || Question Practice || (No DPP) || Rescheduled @12:45 PM",
+       "date": "2024-12-28",
+       "durationMin": 223,
+       "isCompleted": false
+      },
+      {
+       "pwId": "67701925623ac2052eb48274",
+       "title": "Permutation & Combination 02 : Permutation & Combination Formula || Question Practice || (No DPP) || Extra Lecture || Recorded",
+       "date": "2024-12-29",
+       "durationMin": 150,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6772868b22c8df080ce414c4",
+       "title": "Permutation & Combination 03 : Rank Of Word In Dictionary || Divisor Problems  || Rescheduled @01:15 PM",
+       "date": "2024-12-30",
+       "durationMin": 234,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6772cae06f2b67ca258a91d1",
+       "title": "Permutation & Combination 04 : Divisor Problems || Circular Permutation || Question Practice || Recorded",
+       "date": "2024-12-31",
+       "durationMin": 131,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6777bf42483fa2971c93110d",
+       "title": "Permutation & Combination 05 : Division & Distribution || Number Of Integral Solutions || Derangement",
+       "date": "2025-01-03",
+       "durationMin": 222,
+       "isCompleted": false
+      },
+      {
+       "pwId": "6778f7fe025174d82e8a1722",
+       "title": "Permutation & Combination 06 : Number of Integral Solutions || Derangement || Principle of Inclusion & Exclusion || Question Practice",
+       "date": "2025-01-04",
+       "durationMin": 117,
+       "isCompleted": false
+      }
+     ]
+    },
+    {
+     "topicId": "689518e08b712dbb8766cc3f",
+     "name": "Ch - 29 : Probability",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "677bdae807f178a8a3b3fb09",
+       "title": "Probability 01 : Introduction || No DPP || Reschedule @04:30 PM",
+       "date": "2025-01-06",
+       "durationMin": 150,
+       "isCompleted": false
+      },
+      {
+       "pwId": "677d0ef0837c2a6dddec40df",
+       "title": "Probability 02 : Use Of Set Theory || Independent Events || Rescheduled @01:00 PM",
+       "date": "2025-01-07",
+       "durationMin": 234,
+       "isCompleted": false
+      },
+      {
+       "pwId": "677e7ed15510919850442f4a",
+       "title": "2025-01-08 12-30-13",
+       "date": "2025-01-08",
+       "durationMin": 193,
+       "isCompleted": false
+      },
+      {
+       "pwId": "677fb2a8608bdb741abefcab",
+       "title": "Probability 04 : Binomial Probability Distribution || Geometrical Probability || Reschedule @01:00 PM",
+       "date": "2025-01-09",
+       "durationMin": 235,
+       "isCompleted": false
+      }
+     ]
+    },
+    {
+     "topicId": "689518e08b712dbb8766cc40",
+     "name": "Ch - 30 : Complex Numbers",
+     "dppCount": 0,
+     "dpps": [],
+     "lectures": [
+      {
+       "pwId": "67810045792ba896d46873c1",
+       "title": "Complex Numbers 01 : Modulus, Argument, & Conjugate || Important Properties || ((No DPP)",
+       "date": "2025-01-10",
+       "durationMin": 190,
+       "isCompleted": false
+      },
+      {
+       "pwId": "67850212f96931e1be5c9ee1",
+       "title": "Complex Numbers 02 : Different Forms of Complex Numbers || DMT & Cube Root of Unity || Question Practice || Reschedule @01:00 PM",
+       "date": "2025-01-13",
+       "durationMin": 269,
+       "isCompleted": false
+      },
+      {
+       "pwId": "67865cec1e7234fbf6a09a04",
+       "title": "Complex Numbers 03 : Geometry of Complex Numbers || Locus Based On Modulus & Argument || Extra || No DPP",
+       "date": "2025-01-14",
+       "durationMin": 282,
+       "isCompleted": false
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

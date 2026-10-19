@@ -270,15 +270,24 @@ fun BatchLectureLauncherCard(
                         // 1. Engage focus lock
                         onStartFocusLock(targetLecture)
 
-                        // 2. Build direct URL with API key / start params if applicable
-                        val finalUrl = if (hasApiKey && !batchUrl.contains("key=")) {
-                            if (batchUrl.contains("?")) "$batchUrl&key=${prefs.batchApiKey}&lec=${targetLecture.lectureNumber}&speed=$selectedSpeed"
-                            else "$batchUrl?key=${prefs.batchApiKey}&lec=${targetLecture.lectureNumber}&speed=$selectedSpeed"
-                        } else {
+                        // 2. Build direct URL with start params if applicable.
+                        // SECURITY: NEVER append the API key into the URL. Query strings
+                        // end up in browser history, target-app logs and crash reports.
+                        // The portal URL must carry its own auth (the key stays in PW).
+
+                        val lecParam = "lec=${targetLecture.lectureNumber}"
+                        val finalUrl = try {
+                            // Only append non-secret params; https-only guard against intent abuse
+                            Uri.parse(batchUrl)
+                                .buildUpon()
+                                .appendQueryParameter("lec", lecParam.substringAfter('='))
+                                .appendQueryParameter("speed", selectedSpeed.toString())
+                                .build()
+                                .toString()
+                                .also { if (!it.startsWith("https://")) throw IllegalArgumentException("non-https portal") }
+                        } catch (e: Exception) {
                             batchUrl
                         }
-
-                        // 3. Launch browser / video app directly
                         try {
                             val intent = Intent(Intent.ACTION_VIEW, Uri.parse(finalUrl)).apply {
                                 flags = Intent.FLAG_ACTIVITY_NEW_TASK

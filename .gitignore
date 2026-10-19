@@ -15,5 +15,9 @@
 .cxx
 local.properties
 .env
+.env.local
+*.env
 debug.keystore
 *-debug.log
+__pycache__/
+*.pyc
